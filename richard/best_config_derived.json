@@ -1,6 +1,6 @@
 {
-  "population_size": 120,
-  "generations": 25,
+  "population_size": 1801,
+  "generations": 50,
   "tournament_size": 7,
   "crossover_rate": 0.6837793050475333,
   "mutation_rate": 0.31294526924321114,
