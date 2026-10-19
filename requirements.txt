@@ -1,0 +1,6 @@
+numpy
+pygame
+tqdm
+scikit-learn
+scipy
+# we also have to install tkinter but thats a bit different apparently

@@ -1,0 +1,16 @@
+metric,value,description
+Champion Generation,1702,The specific generation where the best score was discovered (Gen 1702)
+Best Score,0.06375,Lowest validation Brier score (discovered at Gen 1702)
+Validation Brier,0.06375,Lowest validation Brier score (discovered at Gen 1702)
+Test Brier,0.06542,Generalization score of champion on unseen test split
+Training Brier,0.06401,Score of champion chromosome on training set
+Generations Executed,1802,"Total generations run before early stopping (Max: 10,000)"
+Early Stopping,Triggered at Gen 1802,Stopped automatically after 100 generations without improvement
+Population Size,50,Number of candidate solutions
+Crossover Rate,0.85,Arithmetic blend probability
+Mutation Rate,0.02,Gaussian mutation probability
+Mutation Sigma,0.10,Gaussian mutation step size
+Tournament Size,3,Tournament selection pressure
+Elitism Count,2,Number of top individuals preserved
+Random Seed,42,RNG seed (guarantees 100% reproducibility)
+Sample Count,50000,Training samples used

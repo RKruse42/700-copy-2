@@ -1,0 +1,1501 @@
+agent,seed,won,score,moves
+Random Baseline,5000,False,87,2
+Random Baseline,5001,False,72,1
+Random Baseline,5002,False,67,1
+Random Baseline,5003,False,34,1
+Random Baseline,5004,False,7,1
+Random Baseline,5005,False,44,1
+Random Baseline,5006,False,31,2
+Random Baseline,5007,False,79,3
+Random Baseline,5008,False,37,1
+Random Baseline,5009,False,45,1
+Random Baseline,5010,False,78,3
+Random Baseline,5011,False,74,6
+Random Baseline,5012,False,24,4
+Random Baseline,5013,False,19,2
+Random Baseline,5014,False,120,4
+Random Baseline,5015,False,42,1
+Random Baseline,5016,False,13,1
+Random Baseline,5017,False,29,1
+Random Baseline,5018,False,49,1
+Random Baseline,5019,False,44,1
+Random Baseline,5020,False,36,1
+Random Baseline,5021,False,64,3
+Random Baseline,5022,False,24,3
+Random Baseline,5023,False,23,2
+Random Baseline,5024,False,13,3
+Random Baseline,5025,False,38,7
+Random Baseline,5026,False,15,3
+Random Baseline,5027,False,115,1
+Random Baseline,5028,False,35,1
+Random Baseline,5029,False,79,1
+Random Baseline,5030,False,59,2
+Random Baseline,5031,False,52,1
+Random Baseline,5032,False,13,1
+Random Baseline,5033,False,11,1
+Random Baseline,5034,False,11,1
+Random Baseline,5035,False,76,2
+Random Baseline,5036,False,30,1
+Random Baseline,5037,False,13,1
+Random Baseline,5038,False,35,1
+Random Baseline,5039,False,28,2
+Random Baseline,5040,False,65,4
+Random Baseline,5041,False,122,3
+Random Baseline,5042,False,74,13
+Random Baseline,5043,False,96,2
+Random Baseline,5044,False,47,1
+Random Baseline,5045,False,29,4
+Random Baseline,5046,False,51,2
+Random Baseline,5047,False,13,1
+Random Baseline,5048,False,15,1
+Random Baseline,5049,False,34,8
+Random Baseline,5050,False,91,1
+Random Baseline,5051,False,87,1
+Random Baseline,5052,False,18,3
+Random Baseline,5053,False,26,1
+Random Baseline,5054,False,90,1
+Random Baseline,5055,False,55,6
+Random Baseline,5056,False,35,1
+Random Baseline,5057,False,12,1
+Random Baseline,5058,False,105,1
+Random Baseline,5059,False,84,1
+Random Baseline,5060,False,19,1
+Random Baseline,5061,False,29,1
+Random Baseline,5062,False,99,3
+Random Baseline,5063,False,86,4
+Random Baseline,5064,False,10,1
+Random Baseline,5065,False,85,2
+Random Baseline,5066,False,20,1
+Random Baseline,5067,False,55,1
+Random Baseline,5068,False,29,1
+Random Baseline,5069,False,38,2
+Random Baseline,5070,False,28,1
+Random Baseline,5071,False,21,3
+Random Baseline,5072,False,13,1
+Random Baseline,5073,False,116,1
+Random Baseline,5074,False,98,1
+Random Baseline,5075,False,50,2
+Random Baseline,5076,False,65,2
+Random Baseline,5077,False,112,2
+Random Baseline,5078,False,80,9
+Random Baseline,5079,False,28,1
+Random Baseline,5080,False,16,1
+Random Baseline,5081,False,39,2
+Random Baseline,5082,False,40,1
+Random Baseline,5083,False,74,1
+Random Baseline,5084,False,39,1
+Random Baseline,5085,False,105,6
+Random Baseline,5086,False,38,1
+Random Baseline,5087,False,112,3
+Random Baseline,5088,False,20,1
+Random Baseline,5089,False,66,1
+Random Baseline,5090,False,53,1
+Random Baseline,5091,False,17,2
+Random Baseline,5092,False,109,1
+Random Baseline,5093,False,31,6
+Random Baseline,5094,False,39,3
+Random Baseline,5095,False,22,1
+Random Baseline,5096,False,16,2
+Random Baseline,5097,False,49,5
+Random Baseline,5098,False,15,3
+Random Baseline,5099,False,89,4
+Random Baseline,5100,False,57,3
+Random Baseline,5101,False,48,7
+Random Baseline,5102,False,57,6
+Random Baseline,5103,False,17,1
+Random Baseline,5104,False,55,1
+Random Baseline,5105,False,41,6
+Random Baseline,5106,False,23,1
+Random Baseline,5107,False,19,1
+Random Baseline,5108,False,51,1
+Random Baseline,5109,False,11,5
+Random Baseline,5110,False,42,1
+Random Baseline,5111,False,30,4
+Random Baseline,5112,False,59,1
+Random Baseline,5113,False,56,1
+Random Baseline,5114,False,87,1
+Random Baseline,5115,False,66,3
+Random Baseline,5116,False,31,1
+Random Baseline,5117,False,37,3
+Random Baseline,5118,False,62,1
+Random Baseline,5119,False,53,2
+Random Baseline,5120,False,25,3
+Random Baseline,5121,False,129,4
+Random Baseline,5122,False,27,3
+Random Baseline,5123,False,49,2
+Random Baseline,5124,False,33,3
+Random Baseline,5125,False,79,4
+Random Baseline,5126,False,36,1
+Random Baseline,5127,False,57,1
+Random Baseline,5128,False,59,2
+Random Baseline,5129,False,67,1
+Random Baseline,5130,False,56,7
+Random Baseline,5131,False,20,2
+Random Baseline,5132,False,17,2
+Random Baseline,5133,False,71,3
+Random Baseline,5134,False,46,1
+Random Baseline,5135,False,9,1
+Random Baseline,5136,False,106,2
+Random Baseline,5137,False,28,2
+Random Baseline,5138,False,62,1
+Random Baseline,5139,False,67,6
+Random Baseline,5140,False,31,1
+Random Baseline,5141,False,40,2
+Random Baseline,5142,False,124,4
+Random Baseline,5143,False,43,2
+Random Baseline,5144,False,54,5
+Random Baseline,5145,False,88,1
+Random Baseline,5146,False,19,1
+Random Baseline,5147,False,41,5
+Random Baseline,5148,False,89,5
+Random Baseline,5149,False,26,1
+Random Baseline,5150,False,39,1
+Random Baseline,5151,False,20,2
+Random Baseline,5152,False,17,1
+Random Baseline,5153,False,19,1
+Random Baseline,5154,False,66,2
+Random Baseline,5155,False,78,5
+Random Baseline,5156,False,66,6
+Random Baseline,5157,False,48,3
+Random Baseline,5158,False,83,1
+Random Baseline,5159,False,87,1
+Random Baseline,5160,False,51,1
+Random Baseline,5161,False,18,6
+Random Baseline,5162,False,51,2
+Random Baseline,5163,False,52,4
+Random Baseline,5164,False,78,4
+Random Baseline,5165,False,43,1
+Random Baseline,5166,False,72,1
+Random Baseline,5167,False,105,1
+Random Baseline,5168,False,66,6
+Random Baseline,5169,False,56,2
+Random Baseline,5170,False,66,3
+Random Baseline,5171,False,61,4
+Random Baseline,5172,False,11,3
+Random Baseline,5173,False,114,2
+Random Baseline,5174,False,50,3
+Random Baseline,5175,False,27,1
+Random Baseline,5176,False,17,2
+Random Baseline,5177,False,18,3
+Random Baseline,5178,False,17,2
+Random Baseline,5179,False,46,1
+Random Baseline,5180,False,90,1
+Random Baseline,5181,False,16,3
+Random Baseline,5182,False,26,4
+Random Baseline,5183,False,39,2
+Random Baseline,5184,False,61,2
+Random Baseline,5185,False,19,1
+Random Baseline,5186,False,7,1
+Random Baseline,5187,False,43,2
+Random Baseline,5188,False,32,2
+Random Baseline,5189,False,36,1
+Random Baseline,5190,False,53,1
+Random Baseline,5191,False,58,4
+Random Baseline,5192,False,66,1
+Random Baseline,5193,False,68,1
+Random Baseline,5194,False,38,3
+Random Baseline,5195,False,44,1
+Random Baseline,5196,False,52,2
+Random Baseline,5197,False,112,3
+Random Baseline,5198,False,31,1
+Random Baseline,5199,False,40,1
+Random Baseline,5200,False,32,1
+Random Baseline,5201,False,46,1
+Random Baseline,5202,False,28,1
+Random Baseline,5203,False,8,2
+Random Baseline,5204,False,35,3
+Random Baseline,5205,False,14,5
+Random Baseline,5206,False,30,5
+Random Baseline,5207,False,68,1
+Random Baseline,5208,False,41,2
+Random Baseline,5209,False,63,3
+Random Baseline,5210,False,100,9
+Random Baseline,5211,False,69,1
+Random Baseline,5212,False,74,10
+Random Baseline,5213,False,59,2
+Random Baseline,5214,False,24,1
+Random Baseline,5215,False,37,1
+Random Baseline,5216,False,13,1
+Random Baseline,5217,False,106,2
+Random Baseline,5218,False,28,1
+Random Baseline,5219,False,24,7
+Random Baseline,5220,False,48,1
+Random Baseline,5221,False,90,5
+Random Baseline,5222,False,119,2
+Random Baseline,5223,False,42,1
+Random Baseline,5224,False,63,1
+Random Baseline,5225,False,24,5
+Random Baseline,5226,False,50,3
+Random Baseline,5227,False,10,1
+Random Baseline,5228,False,90,1
+Random Baseline,5229,False,32,7
+Random Baseline,5230,False,83,5
+Random Baseline,5231,False,127,6
+Random Baseline,5232,False,53,1
+Random Baseline,5233,False,68,1
+Random Baseline,5234,False,50,1
+Random Baseline,5235,False,76,1
+Random Baseline,5236,False,85,4
+Random Baseline,5237,False,104,4
+Random Baseline,5238,False,25,2
+Random Baseline,5239,False,17,2
+Random Baseline,5240,False,57,2
+Random Baseline,5241,False,68,2
+Random Baseline,5242,False,13,2
+Random Baseline,5243,False,42,3
+Random Baseline,5244,False,14,2
+Random Baseline,5245,False,30,4
+Random Baseline,5246,False,27,3
+Random Baseline,5247,False,17,3
+Random Baseline,5248,False,23,2
+Random Baseline,5249,False,121,5
+Random Baseline,5250,False,80,4
+Random Baseline,5251,False,63,2
+Random Baseline,5252,False,26,2
+Random Baseline,5253,False,28,1
+Random Baseline,5254,False,12,1
+Random Baseline,5255,False,10,1
+Random Baseline,5256,False,50,4
+Random Baseline,5257,False,58,2
+Random Baseline,5258,False,86,4
+Random Baseline,5259,False,56,8
+Random Baseline,5260,False,42,3
+Random Baseline,5261,False,14,2
+Random Baseline,5262,False,26,2
+Random Baseline,5263,False,56,2
+Random Baseline,5264,False,71,3
+Random Baseline,5265,False,42,2
+Random Baseline,5266,False,9,1
+Random Baseline,5267,False,100,2
+Random Baseline,5268,False,16,1
+Random Baseline,5269,False,69,7
+Random Baseline,5270,False,7,1
+Random Baseline,5271,False,7,1
+Random Baseline,5272,False,55,2
+Random Baseline,5273,False,81,1
+Random Baseline,5274,False,77,2
+Random Baseline,5275,False,76,5
+Random Baseline,5276,False,62,1
+Random Baseline,5277,False,18,2
+Random Baseline,5278,False,31,1
+Random Baseline,5279,False,39,3
+Random Baseline,5280,False,50,1
+Random Baseline,5281,False,53,1
+Random Baseline,5282,False,110,2
+Random Baseline,5283,False,80,1
+Random Baseline,5284,False,41,1
+Random Baseline,5285,False,95,2
+Random Baseline,5286,False,89,1
+Random Baseline,5287,False,30,2
+Random Baseline,5288,False,87,6
+Random Baseline,5289,False,9,1
+Random Baseline,5290,False,70,1
+Random Baseline,5291,False,109,4
+Random Baseline,5292,False,21,1
+Random Baseline,5293,False,74,3
+Random Baseline,5294,False,116,4
+Random Baseline,5295,False,103,3
+Random Baseline,5296,False,7,1
+Random Baseline,5297,False,55,1
+Random Baseline,5298,False,67,1
+Random Baseline,5299,False,47,3
+Random Baseline,5300,False,67,2
+Random Baseline,5301,False,124,2
+Random Baseline,5302,False,76,2
+Random Baseline,5303,False,105,2
+Random Baseline,5304,False,27,10
+Random Baseline,5305,False,27,1
+Random Baseline,5306,False,31,5
+Random Baseline,5307,False,10,1
+Random Baseline,5308,False,25,2
+Random Baseline,5309,False,41,7
+Random Baseline,5310,False,23,6
+Random Baseline,5311,False,93,1
+Random Baseline,5312,False,113,5
+Random Baseline,5313,False,30,6
+Random Baseline,5314,False,61,7
+Random Baseline,5315,False,9,1
+Random Baseline,5316,False,24,1
+Random Baseline,5317,False,56,1
+Random Baseline,5318,False,43,7
+Random Baseline,5319,False,10,2
+Random Baseline,5320,False,38,4
+Random Baseline,5321,False,47,1
+Random Baseline,5322,False,76,1
+Random Baseline,5323,False,99,13
+Random Baseline,5324,False,76,1
+Random Baseline,5325,False,140,3
+Random Baseline,5326,False,12,1
+Random Baseline,5327,False,46,7
+Random Baseline,5328,False,56,11
+Random Baseline,5329,False,20,2
+Random Baseline,5330,False,83,8
+Random Baseline,5331,False,35,1
+Random Baseline,5332,False,20,2
+Random Baseline,5333,False,53,1
+Random Baseline,5334,False,56,8
+Random Baseline,5335,False,84,4
+Random Baseline,5336,False,66,2
+Random Baseline,5337,False,29,4
+Random Baseline,5338,False,39,1
+Random Baseline,5339,False,38,4
+Random Baseline,5340,False,15,1
+Random Baseline,5341,False,67,1
+Random Baseline,5342,False,85,1
+Random Baseline,5343,False,112,1
+Random Baseline,5344,False,31,1
+Random Baseline,5345,False,14,2
+Random Baseline,5346,False,74,1
+Random Baseline,5347,False,45,3
+Random Baseline,5348,False,74,3
+Random Baseline,5349,False,22,1
+Random Baseline,5350,False,12,1
+Random Baseline,5351,False,76,2
+Random Baseline,5352,False,34,1
+Random Baseline,5353,False,82,2
+Random Baseline,5354,False,18,2
+Random Baseline,5355,False,96,2
+Random Baseline,5356,False,75,9
+Random Baseline,5357,False,103,3
+Random Baseline,5358,False,48,1
+Random Baseline,5359,False,18,2
+Random Baseline,5360,False,19,2
+Random Baseline,5361,False,79,1
+Random Baseline,5362,False,77,1
+Random Baseline,5363,False,46,2
+Random Baseline,5364,False,39,1
+Random Baseline,5365,False,30,1
+Random Baseline,5366,False,15,5
+Random Baseline,5367,False,37,5
+Random Baseline,5368,False,39,1
+Random Baseline,5369,False,23,1
+Random Baseline,5370,False,26,3
+Random Baseline,5371,False,29,6
+Random Baseline,5372,False,128,1
+Random Baseline,5373,False,7,1
+Random Baseline,5374,False,37,1
+Random Baseline,5375,False,27,4
+Random Baseline,5376,False,111,1
+Random Baseline,5377,False,51,3
+Random Baseline,5378,False,48,1
+Random Baseline,5379,False,22,1
+Random Baseline,5380,False,29,2
+Random Baseline,5381,False,46,3
+Random Baseline,5382,False,108,1
+Random Baseline,5383,False,74,1
+Random Baseline,5384,False,57,1
+Random Baseline,5385,False,26,2
+Random Baseline,5386,False,88,2
+Random Baseline,5387,False,35,2
+Random Baseline,5388,False,83,5
+Random Baseline,5389,False,128,4
+Random Baseline,5390,False,64,3
+Random Baseline,5391,False,81,3
+Random Baseline,5392,False,142,6
+Random Baseline,5393,False,31,1
+Random Baseline,5394,False,29,1
+Random Baseline,5395,False,43,1
+Random Baseline,5396,False,144,4
+Random Baseline,5397,False,125,1
+Random Baseline,5398,False,66,2
+Random Baseline,5399,False,70,2
+Random Baseline,5400,False,16,6
+Random Baseline,5401,False,91,2
+Random Baseline,5402,False,57,2
+Random Baseline,5403,False,21,3
+Random Baseline,5404,False,42,1
+Random Baseline,5405,False,82,1
+Random Baseline,5406,False,41,5
+Random Baseline,5407,False,112,1
+Random Baseline,5408,False,46,2
+Random Baseline,5409,False,97,1
+Random Baseline,5410,False,128,2
+Random Baseline,5411,False,68,2
+Random Baseline,5412,False,70,4
+Random Baseline,5413,False,56,1
+Random Baseline,5414,False,44,1
+Random Baseline,5415,False,70,4
+Random Baseline,5416,False,28,1
+Random Baseline,5417,False,114,5
+Random Baseline,5418,False,35,4
+Random Baseline,5419,False,11,1
+Random Baseline,5420,False,114,5
+Random Baseline,5421,False,55,4
+Random Baseline,5422,False,62,3
+Random Baseline,5423,False,80,1
+Random Baseline,5424,False,116,8
+Random Baseline,5425,False,56,4
+Random Baseline,5426,False,34,4
+Random Baseline,5427,False,11,1
+Random Baseline,5428,False,43,8
+Random Baseline,5429,False,21,2
+Random Baseline,5430,False,41,2
+Random Baseline,5431,False,56,3
+Random Baseline,5432,False,94,9
+Random Baseline,5433,False,123,3
+Random Baseline,5434,False,58,1
+Random Baseline,5435,False,19,1
+Random Baseline,5436,False,11,1
+Random Baseline,5437,False,16,2
+Random Baseline,5438,False,111,3
+Random Baseline,5439,False,7,1
+Random Baseline,5440,False,37,1
+Random Baseline,5441,False,74,1
+Random Baseline,5442,False,72,2
+Random Baseline,5443,False,38,1
+Random Baseline,5444,False,144,5
+Random Baseline,5445,False,21,1
+Random Baseline,5446,False,85,1
+Random Baseline,5447,False,96,5
+Random Baseline,5448,False,66,1
+Random Baseline,5449,False,25,1
+Random Baseline,5450,False,94,5
+Random Baseline,5451,False,12,3
+Random Baseline,5452,False,116,1
+Random Baseline,5453,False,135,1
+Random Baseline,5454,False,37,3
+Random Baseline,5455,False,37,2
+Random Baseline,5456,False,10,1
+Random Baseline,5457,False,10,2
+Random Baseline,5458,False,79,1
+Random Baseline,5459,False,18,1
+Random Baseline,5460,False,94,2
+Random Baseline,5461,False,52,1
+Random Baseline,5462,False,19,1
+Random Baseline,5463,False,80,3
+Random Baseline,5464,False,46,2
+Random Baseline,5465,False,54,3
+Random Baseline,5466,False,59,1
+Random Baseline,5467,False,40,1
+Random Baseline,5468,False,28,1
+Random Baseline,5469,False,46,1
+Random Baseline,5470,False,74,2
+Random Baseline,5471,False,40,1
+Random Baseline,5472,False,31,1
+Random Baseline,5473,False,17,2
+Random Baseline,5474,False,88,1
+Random Baseline,5475,False,67,2
+Random Baseline,5476,False,31,2
+Random Baseline,5477,False,20,1
+Random Baseline,5478,False,75,2
+Random Baseline,5479,False,40,1
+Random Baseline,5480,False,15,1
+Random Baseline,5481,False,81,6
+Random Baseline,5482,False,102,3
+Random Baseline,5483,False,29,3
+Random Baseline,5484,False,28,2
+Random Baseline,5485,False,46,2
+Random Baseline,5486,False,95,4
+Random Baseline,5487,False,89,1
+Random Baseline,5488,False,89,3
+Random Baseline,5489,False,10,1
+Random Baseline,5490,False,79,1
+Random Baseline,5491,False,11,1
+Random Baseline,5492,False,75,1
+Random Baseline,5493,False,43,3
+Random Baseline,5494,False,121,2
+Random Baseline,5495,False,11,1
+Random Baseline,5496,False,85,4
+Random Baseline,5497,False,49,1
+Random Baseline,5498,False,11,1
+Random Baseline,5499,False,74,1
+GA Agent (Trained),5000,False,88,3
+GA Agent (Trained),5001,False,129,10
+GA Agent (Trained),5002,False,75,9
+GA Agent (Trained),5003,False,180,25
+GA Agent (Trained),5004,False,105,8
+GA Agent (Trained),5005,False,101,16
+GA Agent (Trained),5006,False,104,6
+GA Agent (Trained),5007,False,184,31
+GA Agent (Trained),5008,False,47,5
+GA Agent (Trained),5009,False,65,3
+GA Agent (Trained),5010,False,76,1
+GA Agent (Trained),5011,False,56,7
+GA Agent (Trained),5012,False,45,8
+GA Agent (Trained),5013,False,23,6
+GA Agent (Trained),5014,False,143,9
+GA Agent (Trained),5015,False,110,16
+GA Agent (Trained),5016,False,13,1
+GA Agent (Trained),5017,False,34,6
+GA Agent (Trained),5018,False,53,5
+GA Agent (Trained),5019,False,179,46
+GA Agent (Trained),5020,False,99,5
+GA Agent (Trained),5021,False,135,9
+GA Agent (Trained),5022,False,23,2
+GA Agent (Trained),5023,False,25,4
+GA Agent (Trained),5024,False,14,4
+GA Agent (Trained),5025,False,38,8
+GA Agent (Trained),5026,False,164,15
+GA Agent (Trained),5027,False,118,4
+GA Agent (Trained),5028,False,67,5
+GA Agent (Trained),5029,False,120,8
+GA Agent (Trained),5030,False,90,13
+GA Agent (Trained),5031,False,164,23
+GA Agent (Trained),5032,False,18,6
+GA Agent (Trained),5033,False,174,22
+GA Agent (Trained),5034,False,29,6
+GA Agent (Trained),5035,False,81,7
+GA Agent (Trained),5036,False,113,14
+GA Agent (Trained),5037,False,158,19
+GA Agent (Trained),5038,False,36,2
+GA Agent (Trained),5039,False,120,17
+GA Agent (Trained),5040,False,160,15
+GA Agent (Trained),5041,False,161,17
+GA Agent (Trained),5042,False,29,9
+GA Agent (Trained),5043,False,145,11
+GA Agent (Trained),5044,False,90,18
+GA Agent (Trained),5045,False,71,11
+GA Agent (Trained),5046,False,97,21
+GA Agent (Trained),5047,False,45,14
+GA Agent (Trained),5048,False,87,10
+GA Agent (Trained),5049,False,145,14
+GA Agent (Trained),5050,False,102,7
+GA Agent (Trained),5051,False,87,1
+GA Agent (Trained),5052,False,16,1
+GA Agent (Trained),5053,False,96,10
+GA Agent (Trained),5054,False,126,12
+GA Agent (Trained),5055,False,168,13
+GA Agent (Trained),5056,False,84,9
+GA Agent (Trained),5057,False,16,5
+GA Agent (Trained),5058,False,115,4
+GA Agent (Trained),5059,False,145,25
+GA Agent (Trained),5060,False,143,25
+GA Agent (Trained),5061,False,174,29
+GA Agent (Trained),5062,False,178,27
+GA Agent (Trained),5063,False,93,4
+GA Agent (Trained),5064,False,101,18
+GA Agent (Trained),5065,False,93,10
+GA Agent (Trained),5066,False,107,23
+GA Agent (Trained),5067,False,165,20
+GA Agent (Trained),5068,False,52,19
+GA Agent (Trained),5069,False,140,15
+GA Agent (Trained),5070,False,81,13
+GA Agent (Trained),5071,False,39,7
+GA Agent (Trained),5072,False,159,33
+GA Agent (Trained),5073,False,119,4
+GA Agent (Trained),5074,False,137,6
+GA Agent (Trained),5075,False,50,2
+GA Agent (Trained),5076,False,81,5
+GA Agent (Trained),5077,False,154,16
+GA Agent (Trained),5078,False,150,24
+GA Agent (Trained),5079,False,28,1
+GA Agent (Trained),5080,False,64,16
+GA Agent (Trained),5081,False,87,12
+GA Agent (Trained),5082,False,112,17
+GA Agent (Trained),5083,False,102,9
+GA Agent (Trained),5084,False,129,6
+GA Agent (Trained),5085,False,105,6
+GA Agent (Trained),5086,False,144,9
+GA Agent (Trained),5087,False,159,24
+GA Agent (Trained),5088,False,124,27
+GA Agent (Trained),5089,False,131,8
+GA Agent (Trained),5090,False,55,3
+GA Agent (Trained),5091,False,33,3
+GA Agent (Trained),5092,False,155,14
+GA Agent (Trained),5093,False,37,12
+GA Agent (Trained),5094,False,112,5
+GA Agent (Trained),5095,False,75,10
+GA Agent (Trained),5096,False,19,5
+GA Agent (Trained),5097,False,60,9
+GA Agent (Trained),5098,False,14,2
+GA Agent (Trained),5099,False,127,9
+GA Agent (Trained),5100,False,56,2
+GA Agent (Trained),5101,False,166,23
+GA Agent (Trained),5102,False,114,8
+GA Agent (Trained),5103,False,19,3
+GA Agent (Trained),5104,False,131,21
+GA Agent (Trained),5105,False,40,5
+GA Agent (Trained),5106,False,169,28
+GA Agent (Trained),5107,False,72,8
+GA Agent (Trained),5108,False,53,3
+GA Agent (Trained),5109,False,8,2
+GA Agent (Trained),5110,False,91,5
+GA Agent (Trained),5111,False,58,7
+GA Agent (Trained),5112,False,60,2
+GA Agent (Trained),5113,False,83,4
+GA Agent (Trained),5114,False,173,20
+GA Agent (Trained),5115,False,65,2
+GA Agent (Trained),5116,False,79,18
+GA Agent (Trained),5117,False,134,9
+GA Agent (Trained),5118,False,104,7
+GA Agent (Trained),5119,False,121,19
+GA Agent (Trained),5120,False,131,14
+GA Agent (Trained),5121,False,176,26
+GA Agent (Trained),5122,False,12,2
+GA Agent (Trained),5123,False,124,8
+GA Agent (Trained),5124,False,32,2
+GA Agent (Trained),5125,False,61,1
+GA Agent (Trained),5126,False,128,10
+GA Agent (Trained),5127,False,165,19
+GA Agent (Trained),5128,False,73,6
+GA Agent (Trained),5129,False,134,24
+GA Agent (Trained),5130,False,74,12
+GA Agent (Trained),5131,False,141,17
+GA Agent (Trained),5132,False,125,18
+GA Agent (Trained),5133,False,134,13
+GA Agent (Trained),5134,False,53,5
+GA Agent (Trained),5135,False,123,14
+GA Agent (Trained),5136,False,116,12
+GA Agent (Trained),5137,False,36,10
+GA Agent (Trained),5138,False,83,5
+GA Agent (Trained),5139,False,170,24
+GA Agent (Trained),5140,False,32,2
+GA Agent (Trained),5141,False,46,2
+GA Agent (Trained),5142,False,127,7
+GA Agent (Trained),5143,False,45,4
+GA Agent (Trained),5144,False,52,3
+GA Agent (Trained),5145,False,165,13
+GA Agent (Trained),5146,False,104,14
+GA Agent (Trained),5147,False,46,10
+GA Agent (Trained),5148,False,88,4
+GA Agent (Trained),5149,False,140,16
+GA Agent (Trained),5150,False,130,12
+GA Agent (Trained),5151,False,191,31
+GA Agent (Trained),5152,False,193,62
+GA Agent (Trained),5153,False,95,26
+GA Agent (Trained),5154,False,97,10
+GA Agent (Trained),5155,False,92,11
+GA Agent (Trained),5156,False,120,14
+GA Agent (Trained),5157,False,133,18
+GA Agent (Trained),5158,False,113,6
+GA Agent (Trained),5159,False,156,10
+GA Agent (Trained),5160,False,56,6
+GA Agent (Trained),5161,False,14,2
+GA Agent (Trained),5162,False,90,8
+GA Agent (Trained),5163,False,54,6
+GA Agent (Trained),5164,False,135,18
+GA Agent (Trained),5165,False,77,9
+GA Agent (Trained),5166,False,115,13
+GA Agent (Trained),5167,False,109,5
+GA Agent (Trained),5168,False,163,32
+GA Agent (Trained),5169,False,158,26
+GA Agent (Trained),5170,False,100,9
+GA Agent (Trained),5171,False,76,2
+GA Agent (Trained),5172,False,9,1
+GA Agent (Trained),5173,False,151,15
+GA Agent (Trained),5174,False,92,13
+GA Agent (Trained),5175,False,120,13
+GA Agent (Trained),5176,False,78,16
+GA Agent (Trained),5177,False,33,6
+GA Agent (Trained),5178,False,144,34
+GA Agent (Trained),5179,False,140,27
+GA Agent (Trained),5180,False,111,9
+GA Agent (Trained),5181,False,167,18
+GA Agent (Trained),5182,False,159,30
+GA Agent (Trained),5183,False,80,15
+GA Agent (Trained),5184,False,130,16
+GA Agent (Trained),5185,False,19,1
+GA Agent (Trained),5186,False,7,1
+GA Agent (Trained),5187,False,43,2
+GA Agent (Trained),5188,False,34,4
+GA Agent (Trained),5189,False,40,5
+GA Agent (Trained),5190,False,62,10
+GA Agent (Trained),5191,False,153,18
+GA Agent (Trained),5192,False,144,19
+GA Agent (Trained),5193,False,72,5
+GA Agent (Trained),5194,False,51,6
+GA Agent (Trained),5195,False,145,16
+GA Agent (Trained),5196,False,123,14
+GA Agent (Trained),5197,False,155,6
+GA Agent (Trained),5198,False,71,15
+GA Agent (Trained),5199,False,73,13
+GA Agent (Trained),5200,False,87,12
+GA Agent (Trained),5201,False,135,21
+GA Agent (Trained),5202,False,112,20
+GA Agent (Trained),5203,False,8,2
+GA Agent (Trained),5204,False,74,15
+GA Agent (Trained),5205,False,126,13
+GA Agent (Trained),5206,False,29,4
+GA Agent (Trained),5207,False,72,5
+GA Agent (Trained),5208,False,95,11
+GA Agent (Trained),5209,False,66,6
+GA Agent (Trained),5210,False,40,2
+GA Agent (Trained),5211,False,146,14
+GA Agent (Trained),5212,False,58,3
+GA Agent (Trained),5213,False,152,26
+GA Agent (Trained),5214,False,24,1
+GA Agent (Trained),5215,False,83,11
+GA Agent (Trained),5216,False,16,4
+GA Agent (Trained),5217,False,143,25
+GA Agent (Trained),5218,False,49,7
+GA Agent (Trained),5219,False,72,18
+GA Agent (Trained),5220,False,153,22
+GA Agent (Trained),5221,False,105,20
+GA Agent (Trained),5222,False,143,26
+GA Agent (Trained),5223,False,160,17
+GA Agent (Trained),5224,False,117,18
+GA Agent (Trained),5225,False,25,6
+GA Agent (Trained),5226,False,50,3
+GA Agent (Trained),5227,False,11,2
+GA Agent (Trained),5228,False,94,5
+GA Agent (Trained),5229,False,30,5
+GA Agent (Trained),5230,False,93,4
+GA Agent (Trained),5231,False,124,3
+GA Agent (Trained),5232,False,127,21
+GA Agent (Trained),5233,False,121,11
+GA Agent (Trained),5234,False,154,21
+GA Agent (Trained),5235,False,114,10
+GA Agent (Trained),5236,False,84,3
+GA Agent (Trained),5237,False,136,14
+GA Agent (Trained),5238,False,68,14
+GA Agent (Trained),5239,False,41,5
+GA Agent (Trained),5240,False,107,7
+GA Agent (Trained),5241,False,70,4
+GA Agent (Trained),5242,False,148,26
+GA Agent (Trained),5243,False,41,2
+GA Agent (Trained),5244,False,76,12
+GA Agent (Trained),5245,False,159,20
+GA Agent (Trained),5246,False,26,2
+GA Agent (Trained),5247,False,15,1
+GA Agent (Trained),5248,False,145,22
+GA Agent (Trained),5249,False,146,13
+GA Agent (Trained),5250,False,84,8
+GA Agent (Trained),5251,False,176,34
+GA Agent (Trained),5252,False,191,20
+GA Agent (Trained),5253,False,194,49
+GA Agent (Trained),5254,False,12,1
+GA Agent (Trained),5255,False,40,9
+GA Agent (Trained),5256,False,151,22
+GA Agent (Trained),5257,False,125,13
+GA Agent (Trained),5258,False,124,12
+GA Agent (Trained),5259,False,115,16
+GA Agent (Trained),5260,False,138,10
+GA Agent (Trained),5261,False,14,2
+GA Agent (Trained),5262,False,84,8
+GA Agent (Trained),5263,False,94,10
+GA Agent (Trained),5264,False,105,11
+GA Agent (Trained),5265,False,108,8
+GA Agent (Trained),5266,False,12,4
+GA Agent (Trained),5267,False,115,10
+GA Agent (Trained),5268,False,96,8
+GA Agent (Trained),5269,False,168,48
+GA Agent (Trained),5270,False,16,10
+GA Agent (Trained),5271,False,61,9
+GA Agent (Trained),5272,False,145,25
+GA Agent (Trained),5273,False,82,2
+GA Agent (Trained),5274,False,132,8
+GA Agent (Trained),5275,False,80,9
+GA Agent (Trained),5276,False,63,2
+GA Agent (Trained),5277,False,103,10
+GA Agent (Trained),5278,False,51,8
+GA Agent (Trained),5279,False,136,22
+GA Agent (Trained),5280,False,126,16
+GA Agent (Trained),5281,False,85,5
+GA Agent (Trained),5282,False,120,12
+GA Agent (Trained),5283,False,122,9
+GA Agent (Trained),5284,False,89,8
+GA Agent (Trained),5285,False,145,10
+GA Agent (Trained),5286,False,90,2
+GA Agent (Trained),5287,False,31,3
+GA Agent (Trained),5288,False,117,7
+GA Agent (Trained),5289,False,9,1
+GA Agent (Trained),5290,False,73,4
+GA Agent (Trained),5291,False,106,1
+GA Agent (Trained),5292,False,36,3
+GA Agent (Trained),5293,False,89,5
+GA Agent (Trained),5294,False,115,3
+GA Agent (Trained),5295,False,120,13
+GA Agent (Trained),5296,False,147,11
+GA Agent (Trained),5297,False,58,4
+GA Agent (Trained),5298,False,68,2
+GA Agent (Trained),5299,False,49,5
+GA Agent (Trained),5300,False,119,23
+GA Agent (Trained),5301,False,133,4
+GA Agent (Trained),5302,False,81,7
+GA Agent (Trained),5303,False,132,16
+GA Agent (Trained),5304,False,14,2
+GA Agent (Trained),5305,False,182,38
+GA Agent (Trained),5306,False,82,5
+GA Agent (Trained),5307,False,37,3
+GA Agent (Trained),5308,False,26,3
+GA Agent (Trained),5309,False,158,11
+GA Agent (Trained),5310,False,149,22
+GA Agent (Trained),5311,False,102,10
+GA Agent (Trained),5312,False,109,1
+GA Agent (Trained),5313,False,28,4
+GA Agent (Trained),5314,False,183,33
+GA Agent (Trained),5315,False,89,16
+GA Agent (Trained),5316,False,28,5
+GA Agent (Trained),5317,False,73,11
+GA Agent (Trained),5318,False,165,34
+GA Agent (Trained),5319,False,10,2
+GA Agent (Trained),5320,False,160,15
+GA Agent (Trained),5321,False,128,7
+GA Agent (Trained),5322,False,77,2
+GA Agent (Trained),5323,False,92,14
+GA Agent (Trained),5324,False,81,6
+GA Agent (Trained),5325,False,170,21
+GA Agent (Trained),5326,False,34,12
+GA Agent (Trained),5327,False,46,7
+GA Agent (Trained),5328,False,71,9
+GA Agent (Trained),5329,False,20,2
+GA Agent (Trained),5330,False,202,42
+GA Agent (Trained),5331,False,135,23
+GA Agent (Trained),5332,False,114,20
+GA Agent (Trained),5333,False,54,2
+GA Agent (Trained),5334,False,148,35
+GA Agent (Trained),5335,False,174,36
+GA Agent (Trained),5336,False,69,5
+GA Agent (Trained),5337,False,68,16
+GA Agent (Trained),5338,False,43,5
+GA Agent (Trained),5339,False,87,11
+GA Agent (Trained),5340,False,93,6
+GA Agent (Trained),5341,False,82,8
+GA Agent (Trained),5342,False,125,5
+GA Agent (Trained),5343,False,179,25
+GA Agent (Trained),5344,False,33,3
+GA Agent (Trained),5345,False,26,14
+GA Agent (Trained),5346,False,74,1
+GA Agent (Trained),5347,False,90,9
+GA Agent (Trained),5348,False,84,13
+GA Agent (Trained),5349,False,27,6
+GA Agent (Trained),5350,False,14,3
+GA Agent (Trained),5351,False,82,8
+GA Agent (Trained),5352,False,38,5
+GA Agent (Trained),5353,False,132,29
+GA Agent (Trained),5354,False,36,5
+GA Agent (Trained),5355,False,131,6
+GA Agent (Trained),5356,False,79,13
+GA Agent (Trained),5357,False,41,2
+GA Agent (Trained),5358,False,85,4
+GA Agent (Trained),5359,False,185,13
+GA Agent (Trained),5360,False,128,13
+GA Agent (Trained),5361,False,114,5
+GA Agent (Trained),5362,False,79,3
+GA Agent (Trained),5363,False,46,2
+GA Agent (Trained),5364,False,113,10
+GA Agent (Trained),5365,False,99,21
+GA Agent (Trained),5366,False,14,4
+GA Agent (Trained),5367,False,55,7
+GA Agent (Trained),5368,False,47,9
+GA Agent (Trained),5369,False,37,7
+GA Agent (Trained),5370,False,25,2
+GA Agent (Trained),5371,False,171,42
+GA Agent (Trained),5372,False,136,9
+GA Agent (Trained),5373,False,183,49
+GA Agent (Trained),5374,False,97,9
+GA Agent (Trained),5375,False,25,2
+GA Agent (Trained),5376,False,128,6
+GA Agent (Trained),5377,False,125,15
+GA Agent (Trained),5378,False,83,10
+GA Agent (Trained),5379,False,145,23
+GA Agent (Trained),5380,False,29,2
+GA Agent (Trained),5381,False,61,11
+GA Agent (Trained),5382,False,122,8
+GA Agent (Trained),5383,False,99,7
+GA Agent (Trained),5384,False,156,16
+GA Agent (Trained),5385,False,137,23
+GA Agent (Trained),5386,False,153,24
+GA Agent (Trained),5387,False,101,20
+GA Agent (Trained),5388,False,81,3
+GA Agent (Trained),5389,False,184,22
+GA Agent (Trained),5390,False,103,11
+GA Agent (Trained),5391,False,80,2
+GA Agent (Trained),5392,False,134,4
+GA Agent (Trained),5393,False,40,10
+GA Agent (Trained),5394,False,164,29
+GA Agent (Trained),5395,False,98,17
+GA Agent (Trained),5396,False,165,19
+GA Agent (Trained),5397,False,154,13
+GA Agent (Trained),5398,False,73,9
+GA Agent (Trained),5399,False,74,6
+GA Agent (Trained),5400,False,12,2
+GA Agent (Trained),5401,False,128,10
+GA Agent (Trained),5402,False,62,7
+GA Agent (Trained),5403,False,76,19
+GA Agent (Trained),5404,False,48,7
+GA Agent (Trained),5405,False,165,20
+GA Agent (Trained),5406,False,69,10
+GA Agent (Trained),5407,False,138,12
+GA Agent (Trained),5408,False,141,28
+GA Agent (Trained),5409,False,100,4
+GA Agent (Trained),5410,False,142,16
+GA Agent (Trained),5411,False,163,21
+GA Agent (Trained),5412,False,91,6
+GA Agent (Trained),5413,False,69,10
+GA Agent (Trained),5414,False,45,2
+GA Agent (Trained),5415,False,117,13
+GA Agent (Trained),5416,False,119,8
+GA Agent (Trained),5417,False,132,16
+GA Agent (Trained),5418,False,112,12
+GA Agent (Trained),5419,False,11,1
+GA Agent (Trained),5420,False,117,6
+GA Agent (Trained),5421,False,99,12
+GA Agent (Trained),5422,False,114,24
+GA Agent (Trained),5423,False,90,11
+GA Agent (Trained),5424,False,111,3
+GA Agent (Trained),5425,False,116,11
+GA Agent (Trained),5426,False,131,4
+GA Agent (Trained),5427,False,52,6
+GA Agent (Trained),5428,False,39,4
+GA Agent (Trained),5429,False,131,28
+GA Agent (Trained),5430,False,119,14
+GA Agent (Trained),5431,False,67,14
+GA Agent (Trained),5432,False,104,5
+GA Agent (Trained),5433,False,166,17
+GA Agent (Trained),5434,False,73,16
+GA Agent (Trained),5435,False,20,2
+GA Agent (Trained),5436,False,30,8
+GA Agent (Trained),5437,False,95,15
+GA Agent (Trained),5438,False,111,3
+GA Agent (Trained),5439,False,125,8
+GA Agent (Trained),5440,False,50,14
+GA Agent (Trained),5441,False,134,11
+GA Agent (Trained),5442,False,125,29
+GA Agent (Trained),5443,False,41,4
+GA Agent (Trained),5444,False,196,27
+GA Agent (Trained),5445,False,46,8
+GA Agent (Trained),5446,False,107,4
+GA Agent (Trained),5447,False,182,39
+GA Agent (Trained),5448,False,106,9
+GA Agent (Trained),5449,False,30,6
+GA Agent (Trained),5450,False,144,21
+GA Agent (Trained),5451,False,11,2
+GA Agent (Trained),5452,False,129,14
+GA Agent (Trained),5453,False,138,4
+GA Agent (Trained),5454,False,85,10
+GA Agent (Trained),5455,False,86,9
+GA Agent (Trained),5456,False,104,7
+GA Agent (Trained),5457,False,134,24
+GA Agent (Trained),5458,False,141,4
+GA Agent (Trained),5459,False,20,3
+GA Agent (Trained),5460,False,94,2
+GA Agent (Trained),5461,False,61,10
+GA Agent (Trained),5462,False,30,12
+GA Agent (Trained),5463,False,160,27
+GA Agent (Trained),5464,False,87,7
+GA Agent (Trained),5465,False,91,10
+GA Agent (Trained),5466,False,75,17
+GA Agent (Trained),5467,False,42,3
+GA Agent (Trained),5468,False,28,1
+GA Agent (Trained),5469,False,47,2
+GA Agent (Trained),5470,False,81,9
+GA Agent (Trained),5471,False,67,6
+GA Agent (Trained),5472,False,37,7
+GA Agent (Trained),5473,False,17,2
+GA Agent (Trained),5474,False,93,6
+GA Agent (Trained),5475,False,108,12
+GA Agent (Trained),5476,False,49,7
+GA Agent (Trained),5477,False,172,30
+GA Agent (Trained),5478,False,146,24
+GA Agent (Trained),5479,False,147,15
+GA Agent (Trained),5480,False,174,51
+GA Agent (Trained),5481,False,174,31
+GA Agent (Trained),5482,False,140,18
+GA Agent (Trained),5483,False,161,14
+GA Agent (Trained),5484,False,113,8
+GA Agent (Trained),5485,False,111,20
+GA Agent (Trained),5486,False,95,4
+GA Agent (Trained),5487,False,116,4
+GA Agent (Trained),5488,False,171,6
+GA Agent (Trained),5489,False,86,4
+GA Agent (Trained),5490,False,172,16
+GA Agent (Trained),5491,False,139,14
+GA Agent (Trained),5492,False,84,10
+GA Agent (Trained),5493,False,136,14
+GA Agent (Trained),5494,False,144,18
+GA Agent (Trained),5495,False,74,15
+GA Agent (Trained),5496,False,195,44
+GA Agent (Trained),5497,False,54,6
+GA Agent (Trained),5498,False,87,5
+GA Agent (Trained),5499,False,129,8
+Handcrafted (Rules),5000,False,89,4
+Handcrafted (Rules),5001,False,132,14
+Handcrafted (Rules),5002,False,84,12
+Handcrafted (Rules),5003,False,121,5
+Handcrafted (Rules),5004,False,103,7
+Handcrafted (Rules),5005,False,68,4
+Handcrafted (Rules),5006,False,33,4
+Handcrafted (Rules),5007,False,109,12
+Handcrafted (Rules),5008,False,51,9
+Handcrafted (Rules),5009,False,65,3
+Handcrafted (Rules),5010,False,76,1
+Handcrafted (Rules),5011,False,75,8
+Handcrafted (Rules),5012,False,151,26
+Handcrafted (Rules),5013,False,22,5
+Handcrafted (Rules),5014,False,135,7
+Handcrafted (Rules),5015,False,117,20
+Handcrafted (Rules),5016,False,32,4
+Handcrafted (Rules),5017,False,164,21
+Handcrafted (Rules),5018,False,92,15
+Handcrafted (Rules),5019,False,61,11
+Handcrafted (Rules),5020,False,146,14
+Handcrafted (Rules),5021,False,64,3
+Handcrafted (Rules),5022,False,26,5
+Handcrafted (Rules),5023,False,27,6
+Handcrafted (Rules),5024,False,16,6
+Handcrafted (Rules),5025,False,35,8
+Handcrafted (Rules),5026,False,171,21
+Handcrafted (Rules),5027,False,128,8
+Handcrafted (Rules),5028,False,112,18
+Handcrafted (Rules),5029,False,136,11
+Handcrafted (Rules),5030,False,81,9
+Handcrafted (Rules),5031,False,208,57
+Handcrafted (Rules),5032,False,17,5
+Handcrafted (Rules),5033,False,151,9
+Handcrafted (Rules),5034,False,170,38
+Handcrafted (Rules),5035,False,104,20
+Handcrafted (Rules),5036,False,75,14
+Handcrafted (Rules),5037,False,22,5
+Handcrafted (Rules),5038,False,68,10
+Handcrafted (Rules),5039,False,81,11
+Handcrafted (Rules),5040,False,150,12
+Handcrafted (Rules),5041,False,139,10
+Handcrafted (Rules),5042,False,100,13
+Handcrafted (Rules),5043,False,140,6
+Handcrafted (Rules),5044,False,49,3
+Handcrafted (Rules),5045,False,150,13
+Handcrafted (Rules),5046,False,135,27
+Handcrafted (Rules),5047,False,38,7
+Handcrafted (Rules),5048,False,31,5
+Handcrafted (Rules),5049,False,169,17
+Handcrafted (Rules),5050,False,100,5
+Handcrafted (Rules),5051,False,90,4
+Handcrafted (Rules),5052,False,17,2
+Handcrafted (Rules),5053,False,27,2
+Handcrafted (Rules),5054,False,118,4
+Handcrafted (Rules),5055,False,172,19
+Handcrafted (Rules),5056,False,98,7
+Handcrafted (Rules),5057,False,198,61
+Handcrafted (Rules),5058,False,114,3
+Handcrafted (Rules),5059,False,96,8
+Handcrafted (Rules),5060,False,132,11
+Handcrafted (Rules),5061,False,38,10
+Handcrafted (Rules),5062,False,118,15
+Handcrafted (Rules),5063,False,149,11
+Handcrafted (Rules),5064,False,68,12
+Handcrafted (Rules),5065,False,130,9
+Handcrafted (Rules),5066,False,21,2
+Handcrafted (Rules),5067,False,153,12
+Handcrafted (Rules),5068,False,103,15
+Handcrafted (Rules),5069,False,139,13
+Handcrafted (Rules),5070,False,35,8
+Handcrafted (Rules),5071,False,84,17
+Handcrafted (Rules),5072,False,13,1
+Handcrafted (Rules),5073,False,116,1
+Handcrafted (Rules),5074,False,158,11
+Handcrafted (Rules),5075,False,74,11
+Handcrafted (Rules),5076,False,93,5
+Handcrafted (Rules),5077,False,133,16
+Handcrafted (Rules),5078,False,150,21
+Handcrafted (Rules),5079,False,76,7
+Handcrafted (Rules),5080,False,66,18
+Handcrafted (Rules),5081,False,86,11
+Handcrafted (Rules),5082,False,41,2
+Handcrafted (Rules),5083,False,114,8
+Handcrafted (Rules),5084,False,168,20
+Handcrafted (Rules),5085,False,103,4
+Handcrafted (Rules),5086,False,41,4
+Handcrafted (Rules),5087,False,164,18
+Handcrafted (Rules),5088,False,74,9
+Handcrafted (Rules),5089,False,68,3
+Handcrafted (Rules),5090,False,57,5
+Handcrafted (Rules),5091,False,33,3
+Handcrafted (Rules),5092,False,156,8
+Handcrafted (Rules),5093,False,34,9
+Handcrafted (Rules),5094,False,150,17
+Handcrafted (Rules),5095,False,30,9
+Handcrafted (Rules),5096,False,37,12
+Handcrafted (Rules),5097,False,46,2
+Handcrafted (Rules),5098,False,14,2
+Handcrafted (Rules),5099,False,146,17
+Handcrafted (Rules),5100,False,76,6
+Handcrafted (Rules),5101,False,96,5
+Handcrafted (Rules),5102,False,154,17
+Handcrafted (Rules),5103,False,20,4
+Handcrafted (Rules),5104,False,112,10
+Handcrafted (Rules),5105,False,42,7
+Handcrafted (Rules),5106,False,114,6
+Handcrafted (Rules),5107,False,93,14
+Handcrafted (Rules),5108,False,56,6
+Handcrafted (Rules),5109,False,12,6
+Handcrafted (Rules),5110,False,90,4
+Handcrafted (Rules),5111,False,55,4
+Handcrafted (Rules),5112,False,129,26
+Handcrafted (Rules),5113,False,96,9
+Handcrafted (Rules),5114,False,162,13
+Handcrafted (Rules),5115,False,66,3
+Handcrafted (Rules),5116,False,32,2
+Handcrafted (Rules),5117,False,37,3
+Handcrafted (Rules),5118,False,67,6
+Handcrafted (Rules),5119,False,148,27
+Handcrafted (Rules),5120,False,29,7
+Handcrafted (Rules),5121,False,131,6
+Handcrafted (Rules),5122,False,27,3
+Handcrafted (Rules),5123,False,158,17
+Handcrafted (Rules),5124,False,32,2
+Handcrafted (Rules),5125,False,61,1
+Handcrafted (Rules),5126,False,42,7
+Handcrafted (Rules),5127,False,169,21
+Handcrafted (Rules),5128,False,60,3
+Handcrafted (Rules),5129,False,128,13
+Handcrafted (Rules),5130,False,124,18
+Handcrafted (Rules),5131,False,147,18
+Handcrafted (Rules),5132,False,93,18
+Handcrafted (Rules),5133,False,128,9
+Handcrafted (Rules),5134,False,77,19
+Handcrafted (Rules),5135,False,48,3
+Handcrafted (Rules),5136,False,108,4
+Handcrafted (Rules),5137,False,27,1
+Handcrafted (Rules),5138,False,63,2
+Handcrafted (Rules),5139,False,172,24
+Handcrafted (Rules),5140,False,32,2
+Handcrafted (Rules),5141,False,46,2
+Handcrafted (Rules),5142,False,138,9
+Handcrafted (Rules),5143,False,51,10
+Handcrafted (Rules),5144,False,51,2
+Handcrafted (Rules),5145,False,88,1
+Handcrafted (Rules),5146,False,99,8
+Handcrafted (Rules),5147,False,42,6
+Handcrafted (Rules),5148,False,107,4
+Handcrafted (Rules),5149,False,194,31
+Handcrafted (Rules),5150,False,131,13
+Handcrafted (Rules),5151,False,154,14
+Handcrafted (Rules),5152,False,42,13
+Handcrafted (Rules),5153,False,61,11
+Handcrafted (Rules),5154,False,93,6
+Handcrafted (Rules),5155,False,73,4
+Handcrafted (Rules),5156,False,129,13
+Handcrafted (Rules),5157,False,86,6
+Handcrafted (Rules),5158,False,110,3
+Handcrafted (Rules),5159,False,178,12
+Handcrafted (Rules),5160,False,162,31
+Handcrafted (Rules),5161,False,19,7
+Handcrafted (Rules),5162,False,175,32
+Handcrafted (Rules),5163,False,51,3
+Handcrafted (Rules),5164,False,123,17
+Handcrafted (Rules),5165,False,48,6
+Handcrafted (Rules),5166,False,73,2
+Handcrafted (Rules),5167,False,111,7
+Handcrafted (Rules),5168,False,155,20
+Handcrafted (Rules),5169,False,60,6
+Handcrafted (Rules),5170,False,73,10
+Handcrafted (Rules),5171,False,97,13
+Handcrafted (Rules),5172,False,104,7
+Handcrafted (Rules),5173,False,149,13
+Handcrafted (Rules),5174,False,96,11
+Handcrafted (Rules),5175,False,182,34
+Handcrafted (Rules),5176,False,75,13
+Handcrafted (Rules),5177,False,17,2
+Handcrafted (Rules),5178,False,118,25
+Handcrafted (Rules),5179,False,50,5
+Handcrafted (Rules),5180,False,133,15
+Handcrafted (Rules),5181,False,163,17
+Handcrafted (Rules),5182,False,12,4
+Handcrafted (Rules),5183,False,41,4
+Handcrafted (Rules),5184,False,176,37
+Handcrafted (Rules),5185,False,19,1
+Handcrafted (Rules),5186,False,9,3
+Handcrafted (Rules),5187,False,132,14
+Handcrafted (Rules),5188,False,134,9
+Handcrafted (Rules),5189,False,100,6
+Handcrafted (Rules),5190,False,97,11
+Handcrafted (Rules),5191,False,170,31
+Handcrafted (Rules),5192,False,69,4
+Handcrafted (Rules),5193,False,70,3
+Handcrafted (Rules),5194,False,108,15
+Handcrafted (Rules),5195,False,133,19
+Handcrafted (Rules),5196,False,74,6
+Handcrafted (Rules),5197,False,126,3
+Handcrafted (Rules),5198,False,34,4
+Handcrafted (Rules),5199,False,51,5
+Handcrafted (Rules),5200,False,85,11
+Handcrafted (Rules),5201,False,58,13
+Handcrafted (Rules),5202,False,98,14
+Handcrafted (Rules),5203,False,8,2
+Handcrafted (Rules),5204,False,35,3
+Handcrafted (Rules),5205,False,11,2
+Handcrafted (Rules),5206,False,30,5
+Handcrafted (Rules),5207,False,68,1
+Handcrafted (Rules),5208,False,66,15
+Handcrafted (Rules),5209,False,63,3
+Handcrafted (Rules),5210,False,46,8
+Handcrafted (Rules),5211,False,130,8
+Handcrafted (Rules),5212,False,135,16
+Handcrafted (Rules),5213,False,147,20
+Handcrafted (Rules),5214,False,24,1
+Handcrafted (Rules),5215,False,49,3
+Handcrafted (Rules),5216,False,47,8
+Handcrafted (Rules),5217,False,106,2
+Handcrafted (Rules),5218,False,44,17
+Handcrafted (Rules),5219,False,30,13
+Handcrafted (Rules),5220,False,92,4
+Handcrafted (Rules),5221,False,94,9
+Handcrafted (Rules),5222,False,127,10
+Handcrafted (Rules),5223,False,141,11
+Handcrafted (Rules),5224,False,94,5
+Handcrafted (Rules),5225,False,23,4
+Handcrafted (Rules),5226,False,51,4
+Handcrafted (Rules),5227,False,29,14
+Handcrafted (Rules),5228,False,93,4
+Handcrafted (Rules),5229,False,113,19
+Handcrafted (Rules),5230,False,108,25
+Handcrafted (Rules),5231,False,124,3
+Handcrafted (Rules),5232,False,54,2
+Handcrafted (Rules),5233,False,118,6
+Handcrafted (Rules),5234,False,121,11
+Handcrafted (Rules),5235,False,124,9
+Handcrafted (Rules),5236,False,104,6
+Handcrafted (Rules),5237,False,132,11
+Handcrafted (Rules),5238,False,24,1
+Handcrafted (Rules),5239,False,35,12
+Handcrafted (Rules),5240,False,77,4
+Handcrafted (Rules),5241,False,68,2
+Handcrafted (Rules),5242,False,141,21
+Handcrafted (Rules),5243,False,134,10
+Handcrafted (Rules),5244,False,194,47
+Handcrafted (Rules),5245,False,133,7
+Handcrafted (Rules),5246,False,92,10
+Handcrafted (Rules),5247,False,96,13
+Handcrafted (Rules),5248,False,92,21
+Handcrafted (Rules),5249,False,126,8
+Handcrafted (Rules),5250,False,79,3
+Handcrafted (Rules),5251,False,65,4
+Handcrafted (Rules),5252,False,86,14
+Handcrafted (Rules),5253,False,32,5
+Handcrafted (Rules),5254,False,12,1
+Handcrafted (Rules),5255,False,42,10
+Handcrafted (Rules),5256,False,153,16
+Handcrafted (Rules),5257,False,58,2
+Handcrafted (Rules),5258,False,119,7
+Handcrafted (Rules),5259,False,8,2
+Handcrafted (Rules),5260,False,41,2
+Handcrafted (Rules),5261,False,15,3
+Handcrafted (Rules),5262,False,133,13
+Handcrafted (Rules),5263,False,57,3
+Handcrafted (Rules),5264,False,114,9
+Handcrafted (Rules),5265,False,49,9
+Handcrafted (Rules),5266,False,65,10
+Handcrafted (Rules),5267,False,112,5
+Handcrafted (Rules),5268,False,17,2
+Handcrafted (Rules),5269,False,111,14
+Handcrafted (Rules),5270,False,12,6
+Handcrafted (Rules),5271,False,60,8
+Handcrafted (Rules),5272,False,64,11
+Handcrafted (Rules),5273,False,81,1
+Handcrafted (Rules),5274,False,83,3
+Handcrafted (Rules),5275,False,91,8
+Handcrafted (Rules),5276,False,79,6
+Handcrafted (Rules),5277,False,103,8
+Handcrafted (Rules),5278,False,53,14
+Handcrafted (Rules),5279,False,76,4
+Handcrafted (Rules),5280,False,64,5
+Handcrafted (Rules),5281,False,85,5
+Handcrafted (Rules),5282,False,123,13
+Handcrafted (Rules),5283,False,132,23
+Handcrafted (Rules),5284,False,64,6
+Handcrafted (Rules),5285,False,170,15
+Handcrafted (Rules),5286,False,103,13
+Handcrafted (Rules),5287,False,31,3
+Handcrafted (Rules),5288,False,117,7
+Handcrafted (Rules),5289,False,9,1
+Handcrafted (Rules),5290,False,71,2
+Handcrafted (Rules),5291,False,120,7
+Handcrafted (Rules),5292,False,66,6
+Handcrafted (Rules),5293,False,160,21
+Handcrafted (Rules),5294,False,114,2
+Handcrafted (Rules),5295,False,105,5
+Handcrafted (Rules),5296,False,148,17
+Handcrafted (Rules),5297,False,57,3
+Handcrafted (Rules),5298,False,179,29
+Handcrafted (Rules),5299,False,84,6
+Handcrafted (Rules),5300,False,128,31
+Handcrafted (Rules),5301,False,125,3
+Handcrafted (Rules),5302,False,76,2
+Handcrafted (Rules),5303,False,157,38
+Handcrafted (Rules),5304,False,16,4
+Handcrafted (Rules),5305,False,83,3
+Handcrafted (Rules),5306,False,167,15
+Handcrafted (Rules),5307,False,37,3
+Handcrafted (Rules),5308,False,116,20
+Handcrafted (Rules),5309,False,155,8
+Handcrafted (Rules),5310,False,23,6
+Handcrafted (Rules),5311,False,98,6
+Handcrafted (Rules),5312,False,121,4
+Handcrafted (Rules),5313,False,26,2
+Handcrafted (Rules),5314,False,68,7
+Handcrafted (Rules),5315,False,61,5
+Handcrafted (Rules),5316,False,28,5
+Handcrafted (Rules),5317,False,110,13
+Handcrafted (Rules),5318,False,32,4
+Handcrafted (Rules),5319,False,9,1
+Handcrafted (Rules),5320,False,154,9
+Handcrafted (Rules),5321,False,49,3
+Handcrafted (Rules),5322,False,93,8
+Handcrafted (Rules),5323,False,102,18
+Handcrafted (Rules),5324,False,81,6
+Handcrafted (Rules),5325,False,170,14
+Handcrafted (Rules),5326,False,149,16
+Handcrafted (Rules),5327,False,41,2
+Handcrafted (Rules),5328,False,76,14
+Handcrafted (Rules),5329,False,35,13
+Handcrafted (Rules),5330,False,143,8
+Handcrafted (Rules),5331,False,130,16
+Handcrafted (Rules),5332,False,182,27
+Handcrafted (Rules),5333,False,53,1
+Handcrafted (Rules),5334,False,124,22
+Handcrafted (Rules),5335,False,83,3
+Handcrafted (Rules),5336,False,105,12
+Handcrafted (Rules),5337,False,44,11
+Handcrafted (Rules),5338,False,44,6
+Handcrafted (Rules),5339,False,31,2
+Handcrafted (Rules),5340,False,93,5
+Handcrafted (Rules),5341,False,150,13
+Handcrafted (Rules),5342,False,100,7
+Handcrafted (Rules),5343,False,135,6
+Handcrafted (Rules),5344,False,33,3
+Handcrafted (Rules),5345,False,97,13
+Handcrafted (Rules),5346,False,77,4
+Handcrafted (Rules),5347,False,45,3
+Handcrafted (Rules),5348,False,130,15
+Handcrafted (Rules),5349,False,160,29
+Handcrafted (Rules),5350,False,45,9
+Handcrafted (Rules),5351,False,77,3
+Handcrafted (Rules),5352,False,36,3
+Handcrafted (Rules),5353,False,103,18
+Handcrafted (Rules),5354,False,36,5
+Handcrafted (Rules),5355,False,96,2
+Handcrafted (Rules),5356,False,73,7
+Handcrafted (Rules),5357,False,102,4
+Handcrafted (Rules),5358,False,111,13
+Handcrafted (Rules),5359,False,173,7
+Handcrafted (Rules),5360,False,157,17
+Handcrafted (Rules),5361,False,82,4
+Handcrafted (Rules),5362,False,132,9
+Handcrafted (Rules),5363,False,124,4
+Handcrafted (Rules),5364,False,49,5
+Handcrafted (Rules),5365,False,71,6
+Handcrafted (Rules),5366,False,98,11
+Handcrafted (Rules),5367,False,188,44
+Handcrafted (Rules),5368,False,43,5
+Handcrafted (Rules),5369,False,45,8
+Handcrafted (Rules),5370,False,24,1
+Handcrafted (Rules),5371,False,125,19
+Handcrafted (Rules),5372,False,149,5
+Handcrafted (Rules),5373,False,44,6
+Handcrafted (Rules),5374,False,38,2
+Handcrafted (Rules),5375,False,118,17
+Handcrafted (Rules),5376,False,124,2
+Handcrafted (Rules),5377,False,154,18
+Handcrafted (Rules),5378,False,166,30
+Handcrafted (Rules),5379,False,69,3
+Handcrafted (Rules),5380,False,28,1
+Handcrafted (Rules),5381,False,61,11
+Handcrafted (Rules),5382,False,120,5
+Handcrafted (Rules),5383,False,115,7
+Handcrafted (Rules),5384,False,135,18
+Handcrafted (Rules),5385,False,129,30
+Handcrafted (Rules),5386,False,117,5
+Handcrafted (Rules),5387,False,89,13
+Handcrafted (Rules),5388,False,79,1
+Handcrafted (Rules),5389,False,181,24
+Handcrafted (Rules),5390,False,97,5
+Handcrafted (Rules),5391,False,80,2
+Handcrafted (Rules),5392,False,148,13
+Handcrafted (Rules),5393,False,41,11
+Handcrafted (Rules),5394,False,139,15
+Handcrafted (Rules),5395,False,54,9
+Handcrafted (Rules),5396,False,175,24
+Handcrafted (Rules),5397,False,161,17
+Handcrafted (Rules),5398,False,68,4
+Handcrafted (Rules),5399,False,71,3
+Handcrafted (Rules),5400,False,11,1
+Handcrafted (Rules),5401,False,112,10
+Handcrafted (Rules),5402,False,67,6
+Handcrafted (Rules),5403,False,81,25
+Handcrafted (Rules),5404,False,45,4
+Handcrafted (Rules),5405,False,128,11
+Handcrafted (Rules),5406,False,42,4
+Handcrafted (Rules),5407,False,122,11
+Handcrafted (Rules),5408,False,46,2
+Handcrafted (Rules),5409,False,100,4
+Handcrafted (Rules),5410,False,154,18
+Handcrafted (Rules),5411,False,68,2
+Handcrafted (Rules),5412,False,143,14
+Handcrafted (Rules),5413,False,171,34
+Handcrafted (Rules),5414,False,53,10
+Handcrafted (Rules),5415,False,112,7
+Handcrafted (Rules),5416,False,123,12
+Handcrafted (Rules),5417,False,123,7
+Handcrafted (Rules),5418,False,146,23
+Handcrafted (Rules),5419,False,11,1
+Handcrafted (Rules),5420,False,167,25
+Handcrafted (Rules),5421,False,54,3
+Handcrafted (Rules),5422,False,86,6
+Handcrafted (Rules),5423,False,84,5
+Handcrafted (Rules),5424,False,110,2
+Handcrafted (Rules),5425,False,135,17
+Handcrafted (Rules),5426,False,130,3
+Handcrafted (Rules),5427,False,94,9
+Handcrafted (Rules),5428,False,87,18
+Handcrafted (Rules),5429,False,157,29
+Handcrafted (Rules),5430,False,43,4
+Handcrafted (Rules),5431,False,57,4
+Handcrafted (Rules),5432,False,86,1
+Handcrafted (Rules),5433,False,138,9
+Handcrafted (Rules),5434,False,68,11
+Handcrafted (Rules),5435,False,20,2
+Handcrafted (Rules),5436,False,14,4
+Handcrafted (Rules),5437,False,15,1
+Handcrafted (Rules),5438,False,82,1
+Handcrafted (Rules),5439,False,179,25
+Handcrafted (Rules),5440,False,43,7
+Handcrafted (Rules),5441,False,166,25
+Handcrafted (Rules),5442,False,87,7
+Handcrafted (Rules),5443,False,130,20
+Handcrafted (Rules),5444,False,190,24
+Handcrafted (Rules),5445,False,24,4
+Handcrafted (Rules),5446,False,102,3
+Handcrafted (Rules),5447,False,101,6
+Handcrafted (Rules),5448,False,103,6
+Handcrafted (Rules),5449,False,28,4
+Handcrafted (Rules),5450,False,58,11
+Handcrafted (Rules),5451,False,49,18
+Handcrafted (Rules),5452,False,145,11
+Handcrafted (Rules),5453,False,143,9
+Handcrafted (Rules),5454,False,36,2
+Handcrafted (Rules),5455,False,87,11
+Handcrafted (Rules),5456,False,56,10
+Handcrafted (Rules),5457,False,111,13
+Handcrafted (Rules),5458,False,140,5
+Handcrafted (Rules),5459,False,55,9
+Handcrafted (Rules),5460,False,93,1
+Handcrafted (Rules),5461,False,114,7
+Handcrafted (Rules),5462,False,28,10
+Handcrafted (Rules),5463,False,85,8
+Handcrafted (Rules),5464,False,86,6
+Handcrafted (Rules),5465,False,99,19
+Handcrafted (Rules),5466,False,67,9
+Handcrafted (Rules),5467,False,43,4
+Handcrafted (Rules),5468,False,29,2
+Handcrafted (Rules),5469,False,121,12
+Handcrafted (Rules),5470,False,155,26
+Handcrafted (Rules),5471,False,70,9
+Handcrafted (Rules),5472,False,34,4
+Handcrafted (Rules),5473,False,19,4
+Handcrafted (Rules),5474,False,93,6
+Handcrafted (Rules),5475,False,93,6
+Handcrafted (Rules),5476,False,33,4
+Handcrafted (Rules),5477,False,61,3
+Handcrafted (Rules),5478,False,116,8
+Handcrafted (Rules),5479,False,132,9
+Handcrafted (Rules),5480,False,19,5
+Handcrafted (Rules),5481,False,119,6
+Handcrafted (Rules),5482,False,113,5
+Handcrafted (Rules),5483,False,152,5
+Handcrafted (Rules),5484,False,28,2
+Handcrafted (Rules),5485,False,115,11
+Handcrafted (Rules),5486,False,93,2
+Handcrafted (Rules),5487,False,131,10
+Handcrafted (Rules),5488,False,173,9
+Handcrafted (Rules),5489,False,27,5
+Handcrafted (Rules),5490,False,179,17
+Handcrafted (Rules),5491,False,111,6
+Handcrafted (Rules),5492,False,96,12
+Handcrafted (Rules),5493,False,46,6
+Handcrafted (Rules),5494,False,121,2
+Handcrafted (Rules),5495,False,20,3
+Handcrafted (Rules),5496,False,158,19
+Handcrafted (Rules),5497,False,50,2
+Handcrafted (Rules),5498,False,105,10
+Handcrafted (Rules),5499,False,187,23

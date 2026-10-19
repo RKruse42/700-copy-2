@@ -1,0 +1,2001 @@
+agent,seed,won,score,moves
+Random Baseline,5000,False,87,2
+Random Baseline,5001,False,72,1
+Random Baseline,5002,False,67,1
+Random Baseline,5003,False,34,1
+Random Baseline,5004,False,7,1
+Random Baseline,5005,False,44,1
+Random Baseline,5006,False,31,2
+Random Baseline,5007,False,79,3
+Random Baseline,5008,False,37,1
+Random Baseline,5009,False,45,1
+Random Baseline,5010,False,78,3
+Random Baseline,5011,False,74,6
+Random Baseline,5012,False,24,4
+Random Baseline,5013,False,19,2
+Random Baseline,5014,False,120,4
+Random Baseline,5015,False,42,1
+Random Baseline,5016,False,13,1
+Random Baseline,5017,False,29,1
+Random Baseline,5018,False,49,1
+Random Baseline,5019,False,44,1
+Random Baseline,5020,False,36,1
+Random Baseline,5021,False,64,3
+Random Baseline,5022,False,24,3
+Random Baseline,5023,False,23,2
+Random Baseline,5024,False,13,3
+Random Baseline,5025,False,38,7
+Random Baseline,5026,False,15,3
+Random Baseline,5027,False,115,1
+Random Baseline,5028,False,35,1
+Random Baseline,5029,False,79,1
+Random Baseline,5030,False,59,2
+Random Baseline,5031,False,52,1
+Random Baseline,5032,False,13,1
+Random Baseline,5033,False,11,1
+Random Baseline,5034,False,11,1
+Random Baseline,5035,False,76,2
+Random Baseline,5036,False,30,1
+Random Baseline,5037,False,13,1
+Random Baseline,5038,False,35,1
+Random Baseline,5039,False,28,2
+Random Baseline,5040,False,65,4
+Random Baseline,5041,False,122,3
+Random Baseline,5042,False,74,13
+Random Baseline,5043,False,96,2
+Random Baseline,5044,False,47,1
+Random Baseline,5045,False,29,4
+Random Baseline,5046,False,51,2
+Random Baseline,5047,False,13,1
+Random Baseline,5048,False,15,1
+Random Baseline,5049,False,34,8
+Random Baseline,5050,False,91,1
+Random Baseline,5051,False,87,1
+Random Baseline,5052,False,18,3
+Random Baseline,5053,False,26,1
+Random Baseline,5054,False,90,1
+Random Baseline,5055,False,55,6
+Random Baseline,5056,False,35,1
+Random Baseline,5057,False,12,1
+Random Baseline,5058,False,105,1
+Random Baseline,5059,False,84,1
+Random Baseline,5060,False,19,1
+Random Baseline,5061,False,29,1
+Random Baseline,5062,False,99,3
+Random Baseline,5063,False,86,4
+Random Baseline,5064,False,10,1
+Random Baseline,5065,False,85,2
+Random Baseline,5066,False,20,1
+Random Baseline,5067,False,55,1
+Random Baseline,5068,False,29,1
+Random Baseline,5069,False,38,2
+Random Baseline,5070,False,28,1
+Random Baseline,5071,False,21,3
+Random Baseline,5072,False,13,1
+Random Baseline,5073,False,116,1
+Random Baseline,5074,False,98,1
+Random Baseline,5075,False,50,2
+Random Baseline,5076,False,65,2
+Random Baseline,5077,False,112,2
+Random Baseline,5078,False,80,9
+Random Baseline,5079,False,28,1
+Random Baseline,5080,False,16,1
+Random Baseline,5081,False,39,2
+Random Baseline,5082,False,40,1
+Random Baseline,5083,False,74,1
+Random Baseline,5084,False,39,1
+Random Baseline,5085,False,105,6
+Random Baseline,5086,False,38,1
+Random Baseline,5087,False,112,3
+Random Baseline,5088,False,20,1
+Random Baseline,5089,False,66,1
+Random Baseline,5090,False,53,1
+Random Baseline,5091,False,17,2
+Random Baseline,5092,False,109,1
+Random Baseline,5093,False,31,6
+Random Baseline,5094,False,39,3
+Random Baseline,5095,False,22,1
+Random Baseline,5096,False,16,2
+Random Baseline,5097,False,49,5
+Random Baseline,5098,False,15,3
+Random Baseline,5099,False,89,4
+Random Baseline,5100,False,57,3
+Random Baseline,5101,False,48,7
+Random Baseline,5102,False,57,6
+Random Baseline,5103,False,17,1
+Random Baseline,5104,False,55,1
+Random Baseline,5105,False,41,6
+Random Baseline,5106,False,23,1
+Random Baseline,5107,False,19,1
+Random Baseline,5108,False,51,1
+Random Baseline,5109,False,11,5
+Random Baseline,5110,False,42,1
+Random Baseline,5111,False,30,4
+Random Baseline,5112,False,59,1
+Random Baseline,5113,False,56,1
+Random Baseline,5114,False,87,1
+Random Baseline,5115,False,66,3
+Random Baseline,5116,False,31,1
+Random Baseline,5117,False,37,3
+Random Baseline,5118,False,62,1
+Random Baseline,5119,False,53,2
+Random Baseline,5120,False,25,3
+Random Baseline,5121,False,129,4
+Random Baseline,5122,False,27,3
+Random Baseline,5123,False,49,2
+Random Baseline,5124,False,33,3
+Random Baseline,5125,False,79,4
+Random Baseline,5126,False,36,1
+Random Baseline,5127,False,57,1
+Random Baseline,5128,False,59,2
+Random Baseline,5129,False,67,1
+Random Baseline,5130,False,56,7
+Random Baseline,5131,False,20,2
+Random Baseline,5132,False,17,2
+Random Baseline,5133,False,71,3
+Random Baseline,5134,False,46,1
+Random Baseline,5135,False,9,1
+Random Baseline,5136,False,106,2
+Random Baseline,5137,False,28,2
+Random Baseline,5138,False,62,1
+Random Baseline,5139,False,67,6
+Random Baseline,5140,False,31,1
+Random Baseline,5141,False,40,2
+Random Baseline,5142,False,124,4
+Random Baseline,5143,False,43,2
+Random Baseline,5144,False,54,5
+Random Baseline,5145,False,88,1
+Random Baseline,5146,False,19,1
+Random Baseline,5147,False,41,5
+Random Baseline,5148,False,89,5
+Random Baseline,5149,False,26,1
+Random Baseline,5150,False,39,1
+Random Baseline,5151,False,20,2
+Random Baseline,5152,False,17,1
+Random Baseline,5153,False,19,1
+Random Baseline,5154,False,66,2
+Random Baseline,5155,False,78,5
+Random Baseline,5156,False,66,6
+Random Baseline,5157,False,48,3
+Random Baseline,5158,False,83,1
+Random Baseline,5159,False,87,1
+Random Baseline,5160,False,51,1
+Random Baseline,5161,False,18,6
+Random Baseline,5162,False,51,2
+Random Baseline,5163,False,52,4
+Random Baseline,5164,False,78,4
+Random Baseline,5165,False,43,1
+Random Baseline,5166,False,72,1
+Random Baseline,5167,False,105,1
+Random Baseline,5168,False,66,6
+Random Baseline,5169,False,56,2
+Random Baseline,5170,False,66,3
+Random Baseline,5171,False,61,4
+Random Baseline,5172,False,11,3
+Random Baseline,5173,False,114,2
+Random Baseline,5174,False,50,3
+Random Baseline,5175,False,27,1
+Random Baseline,5176,False,17,2
+Random Baseline,5177,False,18,3
+Random Baseline,5178,False,17,2
+Random Baseline,5179,False,46,1
+Random Baseline,5180,False,90,1
+Random Baseline,5181,False,16,3
+Random Baseline,5182,False,26,4
+Random Baseline,5183,False,39,2
+Random Baseline,5184,False,61,2
+Random Baseline,5185,False,19,1
+Random Baseline,5186,False,7,1
+Random Baseline,5187,False,43,2
+Random Baseline,5188,False,32,2
+Random Baseline,5189,False,36,1
+Random Baseline,5190,False,53,1
+Random Baseline,5191,False,58,4
+Random Baseline,5192,False,66,1
+Random Baseline,5193,False,68,1
+Random Baseline,5194,False,38,3
+Random Baseline,5195,False,44,1
+Random Baseline,5196,False,52,2
+Random Baseline,5197,False,112,3
+Random Baseline,5198,False,31,1
+Random Baseline,5199,False,40,1
+Random Baseline,5200,False,32,1
+Random Baseline,5201,False,46,1
+Random Baseline,5202,False,28,1
+Random Baseline,5203,False,8,2
+Random Baseline,5204,False,35,3
+Random Baseline,5205,False,14,5
+Random Baseline,5206,False,30,5
+Random Baseline,5207,False,68,1
+Random Baseline,5208,False,41,2
+Random Baseline,5209,False,63,3
+Random Baseline,5210,False,100,9
+Random Baseline,5211,False,69,1
+Random Baseline,5212,False,74,10
+Random Baseline,5213,False,59,2
+Random Baseline,5214,False,24,1
+Random Baseline,5215,False,37,1
+Random Baseline,5216,False,13,1
+Random Baseline,5217,False,106,2
+Random Baseline,5218,False,28,1
+Random Baseline,5219,False,24,7
+Random Baseline,5220,False,48,1
+Random Baseline,5221,False,90,5
+Random Baseline,5222,False,119,2
+Random Baseline,5223,False,42,1
+Random Baseline,5224,False,63,1
+Random Baseline,5225,False,24,5
+Random Baseline,5226,False,50,3
+Random Baseline,5227,False,10,1
+Random Baseline,5228,False,90,1
+Random Baseline,5229,False,32,7
+Random Baseline,5230,False,83,5
+Random Baseline,5231,False,127,6
+Random Baseline,5232,False,53,1
+Random Baseline,5233,False,68,1
+Random Baseline,5234,False,50,1
+Random Baseline,5235,False,76,1
+Random Baseline,5236,False,85,4
+Random Baseline,5237,False,104,4
+Random Baseline,5238,False,25,2
+Random Baseline,5239,False,17,2
+Random Baseline,5240,False,57,2
+Random Baseline,5241,False,68,2
+Random Baseline,5242,False,13,2
+Random Baseline,5243,False,42,3
+Random Baseline,5244,False,14,2
+Random Baseline,5245,False,30,4
+Random Baseline,5246,False,27,3
+Random Baseline,5247,False,17,3
+Random Baseline,5248,False,23,2
+Random Baseline,5249,False,121,5
+Random Baseline,5250,False,80,4
+Random Baseline,5251,False,63,2
+Random Baseline,5252,False,26,2
+Random Baseline,5253,False,28,1
+Random Baseline,5254,False,12,1
+Random Baseline,5255,False,10,1
+Random Baseline,5256,False,50,4
+Random Baseline,5257,False,58,2
+Random Baseline,5258,False,86,4
+Random Baseline,5259,False,56,8
+Random Baseline,5260,False,42,3
+Random Baseline,5261,False,14,2
+Random Baseline,5262,False,26,2
+Random Baseline,5263,False,56,2
+Random Baseline,5264,False,71,3
+Random Baseline,5265,False,42,2
+Random Baseline,5266,False,9,1
+Random Baseline,5267,False,100,2
+Random Baseline,5268,False,16,1
+Random Baseline,5269,False,69,7
+Random Baseline,5270,False,7,1
+Random Baseline,5271,False,7,1
+Random Baseline,5272,False,55,2
+Random Baseline,5273,False,81,1
+Random Baseline,5274,False,77,2
+Random Baseline,5275,False,76,5
+Random Baseline,5276,False,62,1
+Random Baseline,5277,False,18,2
+Random Baseline,5278,False,31,1
+Random Baseline,5279,False,39,3
+Random Baseline,5280,False,50,1
+Random Baseline,5281,False,53,1
+Random Baseline,5282,False,110,2
+Random Baseline,5283,False,80,1
+Random Baseline,5284,False,41,1
+Random Baseline,5285,False,95,2
+Random Baseline,5286,False,89,1
+Random Baseline,5287,False,30,2
+Random Baseline,5288,False,87,6
+Random Baseline,5289,False,9,1
+Random Baseline,5290,False,70,1
+Random Baseline,5291,False,109,4
+Random Baseline,5292,False,21,1
+Random Baseline,5293,False,74,3
+Random Baseline,5294,False,116,4
+Random Baseline,5295,False,103,3
+Random Baseline,5296,False,7,1
+Random Baseline,5297,False,55,1
+Random Baseline,5298,False,67,1
+Random Baseline,5299,False,47,3
+Random Baseline,5300,False,67,2
+Random Baseline,5301,False,124,2
+Random Baseline,5302,False,76,2
+Random Baseline,5303,False,105,2
+Random Baseline,5304,False,27,10
+Random Baseline,5305,False,27,1
+Random Baseline,5306,False,31,5
+Random Baseline,5307,False,10,1
+Random Baseline,5308,False,25,2
+Random Baseline,5309,False,41,7
+Random Baseline,5310,False,23,6
+Random Baseline,5311,False,93,1
+Random Baseline,5312,False,113,5
+Random Baseline,5313,False,30,6
+Random Baseline,5314,False,61,7
+Random Baseline,5315,False,9,1
+Random Baseline,5316,False,24,1
+Random Baseline,5317,False,56,1
+Random Baseline,5318,False,43,7
+Random Baseline,5319,False,10,2
+Random Baseline,5320,False,38,4
+Random Baseline,5321,False,47,1
+Random Baseline,5322,False,76,1
+Random Baseline,5323,False,99,13
+Random Baseline,5324,False,76,1
+Random Baseline,5325,False,140,3
+Random Baseline,5326,False,12,1
+Random Baseline,5327,False,46,7
+Random Baseline,5328,False,56,11
+Random Baseline,5329,False,20,2
+Random Baseline,5330,False,83,8
+Random Baseline,5331,False,35,1
+Random Baseline,5332,False,20,2
+Random Baseline,5333,False,53,1
+Random Baseline,5334,False,56,8
+Random Baseline,5335,False,84,4
+Random Baseline,5336,False,66,2
+Random Baseline,5337,False,29,4
+Random Baseline,5338,False,39,1
+Random Baseline,5339,False,38,4
+Random Baseline,5340,False,15,1
+Random Baseline,5341,False,67,1
+Random Baseline,5342,False,85,1
+Random Baseline,5343,False,112,1
+Random Baseline,5344,False,31,1
+Random Baseline,5345,False,14,2
+Random Baseline,5346,False,74,1
+Random Baseline,5347,False,45,3
+Random Baseline,5348,False,74,3
+Random Baseline,5349,False,22,1
+Random Baseline,5350,False,12,1
+Random Baseline,5351,False,76,2
+Random Baseline,5352,False,34,1
+Random Baseline,5353,False,82,2
+Random Baseline,5354,False,18,2
+Random Baseline,5355,False,96,2
+Random Baseline,5356,False,75,9
+Random Baseline,5357,False,103,3
+Random Baseline,5358,False,48,1
+Random Baseline,5359,False,18,2
+Random Baseline,5360,False,19,2
+Random Baseline,5361,False,79,1
+Random Baseline,5362,False,77,1
+Random Baseline,5363,False,46,2
+Random Baseline,5364,False,39,1
+Random Baseline,5365,False,30,1
+Random Baseline,5366,False,15,5
+Random Baseline,5367,False,37,5
+Random Baseline,5368,False,39,1
+Random Baseline,5369,False,23,1
+Random Baseline,5370,False,26,3
+Random Baseline,5371,False,29,6
+Random Baseline,5372,False,128,1
+Random Baseline,5373,False,7,1
+Random Baseline,5374,False,37,1
+Random Baseline,5375,False,27,4
+Random Baseline,5376,False,111,1
+Random Baseline,5377,False,51,3
+Random Baseline,5378,False,48,1
+Random Baseline,5379,False,22,1
+Random Baseline,5380,False,29,2
+Random Baseline,5381,False,46,3
+Random Baseline,5382,False,108,1
+Random Baseline,5383,False,74,1
+Random Baseline,5384,False,57,1
+Random Baseline,5385,False,26,2
+Random Baseline,5386,False,88,2
+Random Baseline,5387,False,35,2
+Random Baseline,5388,False,83,5
+Random Baseline,5389,False,128,4
+Random Baseline,5390,False,64,3
+Random Baseline,5391,False,81,3
+Random Baseline,5392,False,142,6
+Random Baseline,5393,False,31,1
+Random Baseline,5394,False,29,1
+Random Baseline,5395,False,43,1
+Random Baseline,5396,False,144,4
+Random Baseline,5397,False,125,1
+Random Baseline,5398,False,66,2
+Random Baseline,5399,False,70,2
+Random Baseline,5400,False,16,6
+Random Baseline,5401,False,91,2
+Random Baseline,5402,False,57,2
+Random Baseline,5403,False,21,3
+Random Baseline,5404,False,42,1
+Random Baseline,5405,False,82,1
+Random Baseline,5406,False,41,5
+Random Baseline,5407,False,112,1
+Random Baseline,5408,False,46,2
+Random Baseline,5409,False,97,1
+Random Baseline,5410,False,128,2
+Random Baseline,5411,False,68,2
+Random Baseline,5412,False,70,4
+Random Baseline,5413,False,56,1
+Random Baseline,5414,False,44,1
+Random Baseline,5415,False,70,4
+Random Baseline,5416,False,28,1
+Random Baseline,5417,False,114,5
+Random Baseline,5418,False,35,4
+Random Baseline,5419,False,11,1
+Random Baseline,5420,False,114,5
+Random Baseline,5421,False,55,4
+Random Baseline,5422,False,62,3
+Random Baseline,5423,False,80,1
+Random Baseline,5424,False,116,8
+Random Baseline,5425,False,56,4
+Random Baseline,5426,False,34,4
+Random Baseline,5427,False,11,1
+Random Baseline,5428,False,43,8
+Random Baseline,5429,False,21,2
+Random Baseline,5430,False,41,2
+Random Baseline,5431,False,56,3
+Random Baseline,5432,False,94,9
+Random Baseline,5433,False,123,3
+Random Baseline,5434,False,58,1
+Random Baseline,5435,False,19,1
+Random Baseline,5436,False,11,1
+Random Baseline,5437,False,16,2
+Random Baseline,5438,False,111,3
+Random Baseline,5439,False,7,1
+Random Baseline,5440,False,37,1
+Random Baseline,5441,False,74,1
+Random Baseline,5442,False,72,2
+Random Baseline,5443,False,38,1
+Random Baseline,5444,False,144,5
+Random Baseline,5445,False,21,1
+Random Baseline,5446,False,85,1
+Random Baseline,5447,False,96,5
+Random Baseline,5448,False,66,1
+Random Baseline,5449,False,25,1
+Random Baseline,5450,False,94,5
+Random Baseline,5451,False,12,3
+Random Baseline,5452,False,116,1
+Random Baseline,5453,False,135,1
+Random Baseline,5454,False,37,3
+Random Baseline,5455,False,37,2
+Random Baseline,5456,False,10,1
+Random Baseline,5457,False,10,2
+Random Baseline,5458,False,79,1
+Random Baseline,5459,False,18,1
+Random Baseline,5460,False,94,2
+Random Baseline,5461,False,52,1
+Random Baseline,5462,False,19,1
+Random Baseline,5463,False,80,3
+Random Baseline,5464,False,46,2
+Random Baseline,5465,False,54,3
+Random Baseline,5466,False,59,1
+Random Baseline,5467,False,40,1
+Random Baseline,5468,False,28,1
+Random Baseline,5469,False,46,1
+Random Baseline,5470,False,74,2
+Random Baseline,5471,False,40,1
+Random Baseline,5472,False,31,1
+Random Baseline,5473,False,17,2
+Random Baseline,5474,False,88,1
+Random Baseline,5475,False,67,2
+Random Baseline,5476,False,31,2
+Random Baseline,5477,False,20,1
+Random Baseline,5478,False,75,2
+Random Baseline,5479,False,40,1
+Random Baseline,5480,False,15,1
+Random Baseline,5481,False,81,6
+Random Baseline,5482,False,102,3
+Random Baseline,5483,False,29,3
+Random Baseline,5484,False,28,2
+Random Baseline,5485,False,46,2
+Random Baseline,5486,False,95,4
+Random Baseline,5487,False,89,1
+Random Baseline,5488,False,89,3
+Random Baseline,5489,False,10,1
+Random Baseline,5490,False,79,1
+Random Baseline,5491,False,11,1
+Random Baseline,5492,False,75,1
+Random Baseline,5493,False,43,3
+Random Baseline,5494,False,121,2
+Random Baseline,5495,False,11,1
+Random Baseline,5496,False,85,4
+Random Baseline,5497,False,49,1
+Random Baseline,5498,False,11,1
+Random Baseline,5499,False,74,1
+Handcrafted Baseline,5000,False,89,4
+Handcrafted Baseline,5001,False,132,14
+Handcrafted Baseline,5002,False,84,12
+Handcrafted Baseline,5003,False,121,5
+Handcrafted Baseline,5004,False,103,7
+Handcrafted Baseline,5005,False,68,4
+Handcrafted Baseline,5006,False,33,4
+Handcrafted Baseline,5007,False,109,12
+Handcrafted Baseline,5008,False,51,9
+Handcrafted Baseline,5009,False,65,3
+Handcrafted Baseline,5010,False,76,1
+Handcrafted Baseline,5011,False,75,8
+Handcrafted Baseline,5012,False,151,26
+Handcrafted Baseline,5013,False,22,5
+Handcrafted Baseline,5014,False,135,7
+Handcrafted Baseline,5015,False,117,20
+Handcrafted Baseline,5016,False,32,4
+Handcrafted Baseline,5017,False,164,21
+Handcrafted Baseline,5018,False,92,15
+Handcrafted Baseline,5019,False,61,11
+Handcrafted Baseline,5020,False,146,14
+Handcrafted Baseline,5021,False,64,3
+Handcrafted Baseline,5022,False,26,5
+Handcrafted Baseline,5023,False,27,6
+Handcrafted Baseline,5024,False,16,6
+Handcrafted Baseline,5025,False,35,8
+Handcrafted Baseline,5026,False,171,21
+Handcrafted Baseline,5027,False,128,8
+Handcrafted Baseline,5028,False,112,18
+Handcrafted Baseline,5029,False,136,11
+Handcrafted Baseline,5030,False,81,9
+Handcrafted Baseline,5031,False,208,57
+Handcrafted Baseline,5032,False,17,5
+Handcrafted Baseline,5033,False,151,9
+Handcrafted Baseline,5034,False,170,38
+Handcrafted Baseline,5035,False,104,20
+Handcrafted Baseline,5036,False,75,14
+Handcrafted Baseline,5037,False,22,5
+Handcrafted Baseline,5038,False,68,10
+Handcrafted Baseline,5039,False,81,11
+Handcrafted Baseline,5040,False,150,12
+Handcrafted Baseline,5041,False,139,10
+Handcrafted Baseline,5042,False,100,13
+Handcrafted Baseline,5043,False,140,6
+Handcrafted Baseline,5044,False,49,3
+Handcrafted Baseline,5045,False,150,13
+Handcrafted Baseline,5046,False,135,27
+Handcrafted Baseline,5047,False,38,7
+Handcrafted Baseline,5048,False,31,5
+Handcrafted Baseline,5049,False,169,17
+Handcrafted Baseline,5050,False,100,5
+Handcrafted Baseline,5051,False,90,4
+Handcrafted Baseline,5052,False,17,2
+Handcrafted Baseline,5053,False,27,2
+Handcrafted Baseline,5054,False,118,4
+Handcrafted Baseline,5055,False,172,19
+Handcrafted Baseline,5056,False,98,7
+Handcrafted Baseline,5057,False,198,61
+Handcrafted Baseline,5058,False,114,3
+Handcrafted Baseline,5059,False,96,8
+Handcrafted Baseline,5060,False,132,11
+Handcrafted Baseline,5061,False,38,10
+Handcrafted Baseline,5062,False,118,15
+Handcrafted Baseline,5063,False,149,11
+Handcrafted Baseline,5064,False,68,12
+Handcrafted Baseline,5065,False,130,9
+Handcrafted Baseline,5066,False,21,2
+Handcrafted Baseline,5067,False,153,12
+Handcrafted Baseline,5068,False,103,15
+Handcrafted Baseline,5069,False,139,13
+Handcrafted Baseline,5070,False,35,8
+Handcrafted Baseline,5071,False,84,17
+Handcrafted Baseline,5072,False,13,1
+Handcrafted Baseline,5073,False,116,1
+Handcrafted Baseline,5074,False,158,11
+Handcrafted Baseline,5075,False,74,11
+Handcrafted Baseline,5076,False,93,5
+Handcrafted Baseline,5077,False,133,16
+Handcrafted Baseline,5078,False,150,21
+Handcrafted Baseline,5079,False,76,7
+Handcrafted Baseline,5080,False,66,18
+Handcrafted Baseline,5081,False,86,11
+Handcrafted Baseline,5082,False,41,2
+Handcrafted Baseline,5083,False,114,8
+Handcrafted Baseline,5084,False,168,20
+Handcrafted Baseline,5085,False,103,4
+Handcrafted Baseline,5086,False,41,4
+Handcrafted Baseline,5087,False,164,18
+Handcrafted Baseline,5088,False,74,9
+Handcrafted Baseline,5089,False,68,3
+Handcrafted Baseline,5090,False,57,5
+Handcrafted Baseline,5091,False,33,3
+Handcrafted Baseline,5092,False,156,8
+Handcrafted Baseline,5093,False,34,9
+Handcrafted Baseline,5094,False,150,17
+Handcrafted Baseline,5095,False,30,9
+Handcrafted Baseline,5096,False,37,12
+Handcrafted Baseline,5097,False,46,2
+Handcrafted Baseline,5098,False,14,2
+Handcrafted Baseline,5099,False,146,17
+Handcrafted Baseline,5100,False,76,6
+Handcrafted Baseline,5101,False,96,5
+Handcrafted Baseline,5102,False,154,17
+Handcrafted Baseline,5103,False,20,4
+Handcrafted Baseline,5104,False,112,10
+Handcrafted Baseline,5105,False,42,7
+Handcrafted Baseline,5106,False,114,6
+Handcrafted Baseline,5107,False,93,14
+Handcrafted Baseline,5108,False,56,6
+Handcrafted Baseline,5109,False,12,6
+Handcrafted Baseline,5110,False,90,4
+Handcrafted Baseline,5111,False,55,4
+Handcrafted Baseline,5112,False,129,26
+Handcrafted Baseline,5113,False,96,9
+Handcrafted Baseline,5114,False,162,13
+Handcrafted Baseline,5115,False,66,3
+Handcrafted Baseline,5116,False,32,2
+Handcrafted Baseline,5117,False,37,3
+Handcrafted Baseline,5118,False,67,6
+Handcrafted Baseline,5119,False,148,27
+Handcrafted Baseline,5120,False,29,7
+Handcrafted Baseline,5121,False,131,6
+Handcrafted Baseline,5122,False,27,3
+Handcrafted Baseline,5123,False,158,17
+Handcrafted Baseline,5124,False,32,2
+Handcrafted Baseline,5125,False,61,1
+Handcrafted Baseline,5126,False,42,7
+Handcrafted Baseline,5127,False,169,21
+Handcrafted Baseline,5128,False,60,3
+Handcrafted Baseline,5129,False,128,13
+Handcrafted Baseline,5130,False,124,18
+Handcrafted Baseline,5131,False,147,18
+Handcrafted Baseline,5132,False,93,18
+Handcrafted Baseline,5133,False,128,9
+Handcrafted Baseline,5134,False,77,19
+Handcrafted Baseline,5135,False,48,3
+Handcrafted Baseline,5136,False,108,4
+Handcrafted Baseline,5137,False,27,1
+Handcrafted Baseline,5138,False,63,2
+Handcrafted Baseline,5139,False,172,24
+Handcrafted Baseline,5140,False,32,2
+Handcrafted Baseline,5141,False,46,2
+Handcrafted Baseline,5142,False,138,9
+Handcrafted Baseline,5143,False,51,10
+Handcrafted Baseline,5144,False,51,2
+Handcrafted Baseline,5145,False,88,1
+Handcrafted Baseline,5146,False,99,8
+Handcrafted Baseline,5147,False,42,6
+Handcrafted Baseline,5148,False,107,4
+Handcrafted Baseline,5149,False,194,31
+Handcrafted Baseline,5150,False,131,13
+Handcrafted Baseline,5151,False,154,14
+Handcrafted Baseline,5152,False,42,13
+Handcrafted Baseline,5153,False,61,11
+Handcrafted Baseline,5154,False,93,6
+Handcrafted Baseline,5155,False,73,4
+Handcrafted Baseline,5156,False,129,13
+Handcrafted Baseline,5157,False,86,6
+Handcrafted Baseline,5158,False,110,3
+Handcrafted Baseline,5159,False,178,12
+Handcrafted Baseline,5160,False,162,31
+Handcrafted Baseline,5161,False,19,7
+Handcrafted Baseline,5162,False,175,32
+Handcrafted Baseline,5163,False,51,3
+Handcrafted Baseline,5164,False,123,17
+Handcrafted Baseline,5165,False,48,6
+Handcrafted Baseline,5166,False,73,2
+Handcrafted Baseline,5167,False,111,7
+Handcrafted Baseline,5168,False,155,20
+Handcrafted Baseline,5169,False,60,6
+Handcrafted Baseline,5170,False,73,10
+Handcrafted Baseline,5171,False,97,13
+Handcrafted Baseline,5172,False,104,7
+Handcrafted Baseline,5173,False,149,13
+Handcrafted Baseline,5174,False,96,11
+Handcrafted Baseline,5175,False,182,34
+Handcrafted Baseline,5176,False,75,13
+Handcrafted Baseline,5177,False,17,2
+Handcrafted Baseline,5178,False,118,25
+Handcrafted Baseline,5179,False,50,5
+Handcrafted Baseline,5180,False,133,15
+Handcrafted Baseline,5181,False,163,17
+Handcrafted Baseline,5182,False,12,4
+Handcrafted Baseline,5183,False,41,4
+Handcrafted Baseline,5184,False,176,37
+Handcrafted Baseline,5185,False,19,1
+Handcrafted Baseline,5186,False,9,3
+Handcrafted Baseline,5187,False,132,14
+Handcrafted Baseline,5188,False,134,9
+Handcrafted Baseline,5189,False,100,6
+Handcrafted Baseline,5190,False,97,11
+Handcrafted Baseline,5191,False,170,31
+Handcrafted Baseline,5192,False,69,4
+Handcrafted Baseline,5193,False,70,3
+Handcrafted Baseline,5194,False,108,15
+Handcrafted Baseline,5195,False,133,19
+Handcrafted Baseline,5196,False,74,6
+Handcrafted Baseline,5197,False,126,3
+Handcrafted Baseline,5198,False,34,4
+Handcrafted Baseline,5199,False,51,5
+Handcrafted Baseline,5200,False,85,11
+Handcrafted Baseline,5201,False,58,13
+Handcrafted Baseline,5202,False,98,14
+Handcrafted Baseline,5203,False,8,2
+Handcrafted Baseline,5204,False,35,3
+Handcrafted Baseline,5205,False,11,2
+Handcrafted Baseline,5206,False,30,5
+Handcrafted Baseline,5207,False,68,1
+Handcrafted Baseline,5208,False,66,15
+Handcrafted Baseline,5209,False,63,3
+Handcrafted Baseline,5210,False,46,8
+Handcrafted Baseline,5211,False,130,8
+Handcrafted Baseline,5212,False,135,16
+Handcrafted Baseline,5213,False,147,20
+Handcrafted Baseline,5214,False,24,1
+Handcrafted Baseline,5215,False,49,3
+Handcrafted Baseline,5216,False,47,8
+Handcrafted Baseline,5217,False,106,2
+Handcrafted Baseline,5218,False,44,17
+Handcrafted Baseline,5219,False,30,13
+Handcrafted Baseline,5220,False,92,4
+Handcrafted Baseline,5221,False,94,9
+Handcrafted Baseline,5222,False,127,10
+Handcrafted Baseline,5223,False,141,11
+Handcrafted Baseline,5224,False,94,5
+Handcrafted Baseline,5225,False,23,4
+Handcrafted Baseline,5226,False,51,4
+Handcrafted Baseline,5227,False,29,14
+Handcrafted Baseline,5228,False,93,4
+Handcrafted Baseline,5229,False,113,19
+Handcrafted Baseline,5230,False,108,25
+Handcrafted Baseline,5231,False,124,3
+Handcrafted Baseline,5232,False,54,2
+Handcrafted Baseline,5233,False,118,6
+Handcrafted Baseline,5234,False,121,11
+Handcrafted Baseline,5235,False,124,9
+Handcrafted Baseline,5236,False,104,6
+Handcrafted Baseline,5237,False,132,11
+Handcrafted Baseline,5238,False,24,1
+Handcrafted Baseline,5239,False,35,12
+Handcrafted Baseline,5240,False,77,4
+Handcrafted Baseline,5241,False,68,2
+Handcrafted Baseline,5242,False,141,21
+Handcrafted Baseline,5243,False,134,10
+Handcrafted Baseline,5244,False,194,47
+Handcrafted Baseline,5245,False,133,7
+Handcrafted Baseline,5246,False,92,10
+Handcrafted Baseline,5247,False,96,13
+Handcrafted Baseline,5248,False,92,21
+Handcrafted Baseline,5249,False,126,8
+Handcrafted Baseline,5250,False,79,3
+Handcrafted Baseline,5251,False,65,4
+Handcrafted Baseline,5252,False,86,14
+Handcrafted Baseline,5253,False,32,5
+Handcrafted Baseline,5254,False,12,1
+Handcrafted Baseline,5255,False,42,10
+Handcrafted Baseline,5256,False,153,16
+Handcrafted Baseline,5257,False,58,2
+Handcrafted Baseline,5258,False,119,7
+Handcrafted Baseline,5259,False,8,2
+Handcrafted Baseline,5260,False,41,2
+Handcrafted Baseline,5261,False,15,3
+Handcrafted Baseline,5262,False,133,13
+Handcrafted Baseline,5263,False,57,3
+Handcrafted Baseline,5264,False,114,9
+Handcrafted Baseline,5265,False,49,9
+Handcrafted Baseline,5266,False,65,10
+Handcrafted Baseline,5267,False,112,5
+Handcrafted Baseline,5268,False,17,2
+Handcrafted Baseline,5269,False,111,14
+Handcrafted Baseline,5270,False,12,6
+Handcrafted Baseline,5271,False,60,8
+Handcrafted Baseline,5272,False,64,11
+Handcrafted Baseline,5273,False,81,1
+Handcrafted Baseline,5274,False,83,3
+Handcrafted Baseline,5275,False,91,8
+Handcrafted Baseline,5276,False,79,6
+Handcrafted Baseline,5277,False,103,8
+Handcrafted Baseline,5278,False,53,14
+Handcrafted Baseline,5279,False,76,4
+Handcrafted Baseline,5280,False,64,5
+Handcrafted Baseline,5281,False,85,5
+Handcrafted Baseline,5282,False,123,13
+Handcrafted Baseline,5283,False,132,23
+Handcrafted Baseline,5284,False,64,6
+Handcrafted Baseline,5285,False,170,15
+Handcrafted Baseline,5286,False,103,13
+Handcrafted Baseline,5287,False,31,3
+Handcrafted Baseline,5288,False,117,7
+Handcrafted Baseline,5289,False,9,1
+Handcrafted Baseline,5290,False,71,2
+Handcrafted Baseline,5291,False,120,7
+Handcrafted Baseline,5292,False,66,6
+Handcrafted Baseline,5293,False,160,21
+Handcrafted Baseline,5294,False,114,2
+Handcrafted Baseline,5295,False,105,5
+Handcrafted Baseline,5296,False,148,17
+Handcrafted Baseline,5297,False,57,3
+Handcrafted Baseline,5298,False,179,29
+Handcrafted Baseline,5299,False,84,6
+Handcrafted Baseline,5300,False,128,31
+Handcrafted Baseline,5301,False,125,3
+Handcrafted Baseline,5302,False,76,2
+Handcrafted Baseline,5303,False,157,38
+Handcrafted Baseline,5304,False,16,4
+Handcrafted Baseline,5305,False,83,3
+Handcrafted Baseline,5306,False,167,15
+Handcrafted Baseline,5307,False,37,3
+Handcrafted Baseline,5308,False,116,20
+Handcrafted Baseline,5309,False,155,8
+Handcrafted Baseline,5310,False,23,6
+Handcrafted Baseline,5311,False,98,6
+Handcrafted Baseline,5312,False,121,4
+Handcrafted Baseline,5313,False,26,2
+Handcrafted Baseline,5314,False,68,7
+Handcrafted Baseline,5315,False,61,5
+Handcrafted Baseline,5316,False,28,5
+Handcrafted Baseline,5317,False,110,13
+Handcrafted Baseline,5318,False,32,4
+Handcrafted Baseline,5319,False,9,1
+Handcrafted Baseline,5320,False,154,9
+Handcrafted Baseline,5321,False,49,3
+Handcrafted Baseline,5322,False,93,8
+Handcrafted Baseline,5323,False,102,18
+Handcrafted Baseline,5324,False,81,6
+Handcrafted Baseline,5325,False,170,14
+Handcrafted Baseline,5326,False,149,16
+Handcrafted Baseline,5327,False,41,2
+Handcrafted Baseline,5328,False,76,14
+Handcrafted Baseline,5329,False,35,13
+Handcrafted Baseline,5330,False,143,8
+Handcrafted Baseline,5331,False,130,16
+Handcrafted Baseline,5332,False,182,27
+Handcrafted Baseline,5333,False,53,1
+Handcrafted Baseline,5334,False,124,22
+Handcrafted Baseline,5335,False,83,3
+Handcrafted Baseline,5336,False,105,12
+Handcrafted Baseline,5337,False,44,11
+Handcrafted Baseline,5338,False,44,6
+Handcrafted Baseline,5339,False,31,2
+Handcrafted Baseline,5340,False,93,5
+Handcrafted Baseline,5341,False,150,13
+Handcrafted Baseline,5342,False,100,7
+Handcrafted Baseline,5343,False,135,6
+Handcrafted Baseline,5344,False,33,3
+Handcrafted Baseline,5345,False,97,13
+Handcrafted Baseline,5346,False,77,4
+Handcrafted Baseline,5347,False,45,3
+Handcrafted Baseline,5348,False,130,15
+Handcrafted Baseline,5349,False,160,29
+Handcrafted Baseline,5350,False,45,9
+Handcrafted Baseline,5351,False,77,3
+Handcrafted Baseline,5352,False,36,3
+Handcrafted Baseline,5353,False,103,18
+Handcrafted Baseline,5354,False,36,5
+Handcrafted Baseline,5355,False,96,2
+Handcrafted Baseline,5356,False,73,7
+Handcrafted Baseline,5357,False,102,4
+Handcrafted Baseline,5358,False,111,13
+Handcrafted Baseline,5359,False,173,7
+Handcrafted Baseline,5360,False,157,17
+Handcrafted Baseline,5361,False,82,4
+Handcrafted Baseline,5362,False,132,9
+Handcrafted Baseline,5363,False,124,4
+Handcrafted Baseline,5364,False,49,5
+Handcrafted Baseline,5365,False,71,6
+Handcrafted Baseline,5366,False,98,11
+Handcrafted Baseline,5367,False,188,44
+Handcrafted Baseline,5368,False,43,5
+Handcrafted Baseline,5369,False,45,8
+Handcrafted Baseline,5370,False,24,1
+Handcrafted Baseline,5371,False,125,19
+Handcrafted Baseline,5372,False,149,5
+Handcrafted Baseline,5373,False,44,6
+Handcrafted Baseline,5374,False,38,2
+Handcrafted Baseline,5375,False,118,17
+Handcrafted Baseline,5376,False,124,2
+Handcrafted Baseline,5377,False,154,18
+Handcrafted Baseline,5378,False,166,30
+Handcrafted Baseline,5379,False,69,3
+Handcrafted Baseline,5380,False,28,1
+Handcrafted Baseline,5381,False,61,11
+Handcrafted Baseline,5382,False,120,5
+Handcrafted Baseline,5383,False,115,7
+Handcrafted Baseline,5384,False,135,18
+Handcrafted Baseline,5385,False,129,30
+Handcrafted Baseline,5386,False,117,5
+Handcrafted Baseline,5387,False,89,13
+Handcrafted Baseline,5388,False,79,1
+Handcrafted Baseline,5389,False,181,24
+Handcrafted Baseline,5390,False,97,5
+Handcrafted Baseline,5391,False,80,2
+Handcrafted Baseline,5392,False,148,13
+Handcrafted Baseline,5393,False,41,11
+Handcrafted Baseline,5394,False,139,15
+Handcrafted Baseline,5395,False,54,9
+Handcrafted Baseline,5396,False,175,24
+Handcrafted Baseline,5397,False,161,17
+Handcrafted Baseline,5398,False,68,4
+Handcrafted Baseline,5399,False,71,3
+Handcrafted Baseline,5400,False,11,1
+Handcrafted Baseline,5401,False,112,10
+Handcrafted Baseline,5402,False,67,6
+Handcrafted Baseline,5403,False,81,25
+Handcrafted Baseline,5404,False,45,4
+Handcrafted Baseline,5405,False,128,11
+Handcrafted Baseline,5406,False,42,4
+Handcrafted Baseline,5407,False,122,11
+Handcrafted Baseline,5408,False,46,2
+Handcrafted Baseline,5409,False,100,4
+Handcrafted Baseline,5410,False,154,18
+Handcrafted Baseline,5411,False,68,2
+Handcrafted Baseline,5412,False,143,14
+Handcrafted Baseline,5413,False,171,34
+Handcrafted Baseline,5414,False,53,10
+Handcrafted Baseline,5415,False,112,7
+Handcrafted Baseline,5416,False,123,12
+Handcrafted Baseline,5417,False,123,7
+Handcrafted Baseline,5418,False,146,23
+Handcrafted Baseline,5419,False,11,1
+Handcrafted Baseline,5420,False,167,25
+Handcrafted Baseline,5421,False,54,3
+Handcrafted Baseline,5422,False,86,6
+Handcrafted Baseline,5423,False,84,5
+Handcrafted Baseline,5424,False,110,2
+Handcrafted Baseline,5425,False,135,17
+Handcrafted Baseline,5426,False,130,3
+Handcrafted Baseline,5427,False,94,9
+Handcrafted Baseline,5428,False,87,18
+Handcrafted Baseline,5429,False,157,29
+Handcrafted Baseline,5430,False,43,4
+Handcrafted Baseline,5431,False,57,4
+Handcrafted Baseline,5432,False,86,1
+Handcrafted Baseline,5433,False,138,9
+Handcrafted Baseline,5434,False,68,11
+Handcrafted Baseline,5435,False,20,2
+Handcrafted Baseline,5436,False,14,4
+Handcrafted Baseline,5437,False,15,1
+Handcrafted Baseline,5438,False,82,1
+Handcrafted Baseline,5439,False,179,25
+Handcrafted Baseline,5440,False,43,7
+Handcrafted Baseline,5441,False,166,25
+Handcrafted Baseline,5442,False,87,7
+Handcrafted Baseline,5443,False,130,20
+Handcrafted Baseline,5444,False,190,24
+Handcrafted Baseline,5445,False,24,4
+Handcrafted Baseline,5446,False,102,3
+Handcrafted Baseline,5447,False,101,6
+Handcrafted Baseline,5448,False,103,6
+Handcrafted Baseline,5449,False,28,4
+Handcrafted Baseline,5450,False,58,11
+Handcrafted Baseline,5451,False,49,18
+Handcrafted Baseline,5452,False,145,11
+Handcrafted Baseline,5453,False,143,9
+Handcrafted Baseline,5454,False,36,2
+Handcrafted Baseline,5455,False,87,11
+Handcrafted Baseline,5456,False,56,10
+Handcrafted Baseline,5457,False,111,13
+Handcrafted Baseline,5458,False,140,5
+Handcrafted Baseline,5459,False,55,9
+Handcrafted Baseline,5460,False,93,1
+Handcrafted Baseline,5461,False,114,7
+Handcrafted Baseline,5462,False,28,10
+Handcrafted Baseline,5463,False,85,8
+Handcrafted Baseline,5464,False,86,6
+Handcrafted Baseline,5465,False,99,19
+Handcrafted Baseline,5466,False,67,9
+Handcrafted Baseline,5467,False,43,4
+Handcrafted Baseline,5468,False,29,2
+Handcrafted Baseline,5469,False,121,12
+Handcrafted Baseline,5470,False,155,26
+Handcrafted Baseline,5471,False,70,9
+Handcrafted Baseline,5472,False,34,4
+Handcrafted Baseline,5473,False,19,4
+Handcrafted Baseline,5474,False,93,6
+Handcrafted Baseline,5475,False,93,6
+Handcrafted Baseline,5476,False,33,4
+Handcrafted Baseline,5477,False,61,3
+Handcrafted Baseline,5478,False,116,8
+Handcrafted Baseline,5479,False,132,9
+Handcrafted Baseline,5480,False,19,5
+Handcrafted Baseline,5481,False,119,6
+Handcrafted Baseline,5482,False,113,5
+Handcrafted Baseline,5483,False,152,5
+Handcrafted Baseline,5484,False,28,2
+Handcrafted Baseline,5485,False,115,11
+Handcrafted Baseline,5486,False,93,2
+Handcrafted Baseline,5487,False,131,10
+Handcrafted Baseline,5488,False,173,9
+Handcrafted Baseline,5489,False,27,5
+Handcrafted Baseline,5490,False,179,17
+Handcrafted Baseline,5491,False,111,6
+Handcrafted Baseline,5492,False,96,12
+Handcrafted Baseline,5493,False,46,6
+Handcrafted Baseline,5494,False,121,2
+Handcrafted Baseline,5495,False,20,3
+Handcrafted Baseline,5496,False,158,19
+Handcrafted Baseline,5497,False,50,2
+Handcrafted Baseline,5498,False,105,10
+Handcrafted Baseline,5499,False,187,23
+GP Shared,5000,False,89,4
+GP Shared,5001,False,72,1
+GP Shared,5002,False,67,1
+GP Shared,5003,False,78,4
+GP Shared,5004,False,11,5
+GP Shared,5005,False,103,8
+GP Shared,5006,False,30,1
+GP Shared,5007,False,102,16
+GP Shared,5008,False,37,1
+GP Shared,5009,False,45,1
+GP Shared,5010,False,86,11
+GP Shared,5011,False,72,5
+GP Shared,5012,False,22,2
+GP Shared,5013,False,19,2
+GP Shared,5014,False,90,5
+GP Shared,5015,False,47,6
+GP Shared,5016,False,13,1
+GP Shared,5017,False,31,3
+GP Shared,5018,False,49,1
+GP Shared,5019,False,99,4
+GP Shared,5020,False,38,3
+GP Shared,5021,False,124,10
+GP Shared,5022,False,23,2
+GP Shared,5023,False,23,2
+GP Shared,5024,False,90,5
+GP Shared,5025,False,34,3
+GP Shared,5026,False,13,1
+GP Shared,5027,False,119,5
+GP Shared,5028,False,35,1
+GP Shared,5029,False,121,16
+GP Shared,5030,False,87,8
+GP Shared,5031,False,68,7
+GP Shared,5032,False,59,16
+GP Shared,5033,False,122,6
+GP Shared,5034,False,11,1
+GP Shared,5035,False,75,1
+GP Shared,5036,False,30,1
+GP Shared,5037,False,168,21
+GP Shared,5038,False,35,1
+GP Shared,5039,False,31,5
+GP Shared,5040,False,13,1
+GP Shared,5041,False,121,2
+GP Shared,5042,False,24,4
+GP Shared,5043,False,97,3
+GP Shared,5044,False,51,5
+GP Shared,5045,False,26,1
+GP Shared,5046,False,52,3
+GP Shared,5047,False,13,1
+GP Shared,5048,False,15,1
+GP Shared,5049,False,139,10
+GP Shared,5050,False,93,3
+GP Shared,5051,False,87,1
+GP Shared,5052,False,123,16
+GP Shared,5053,False,26,1
+GP Shared,5054,False,102,3
+GP Shared,5055,False,57,7
+GP Shared,5056,False,73,8
+GP Shared,5057,False,28,4
+GP Shared,5058,False,106,2
+GP Shared,5059,False,113,4
+GP Shared,5060,False,22,4
+GP Shared,5061,False,48,13
+GP Shared,5062,False,98,2
+GP Shared,5063,False,83,1
+GP Shared,5064,False,78,11
+GP Shared,5065,False,105,6
+GP Shared,5066,False,54,14
+GP Shared,5067,False,59,5
+GP Shared,5068,False,30,2
+GP Shared,5069,False,38,2
+GP Shared,5070,False,46,6
+GP Shared,5071,False,35,3
+GP Shared,5072,False,13,1
+GP Shared,5073,False,116,1
+GP Shared,5074,False,129,3
+GP Shared,5075,False,49,1
+GP Shared,5076,False,64,1
+GP Shared,5077,False,113,3
+GP Shared,5078,False,73,2
+GP Shared,5079,False,61,6
+GP Shared,5080,False,20,5
+GP Shared,5081,False,39,2
+GP Shared,5082,False,74,3
+GP Shared,5083,False,94,9
+GP Shared,5084,False,130,6
+GP Shared,5085,False,103,4
+GP Shared,5086,False,111,10
+GP Shared,5087,False,110,1
+GP Shared,5088,False,73,8
+GP Shared,5089,False,112,6
+GP Shared,5090,False,54,2
+GP Shared,5091,False,19,4
+GP Shared,5092,False,152,13
+GP Shared,5093,False,16,1
+GP Shared,5094,False,39,3
+GP Shared,5095,False,76,7
+GP Shared,5096,False,85,10
+GP Shared,5097,False,47,3
+GP Shared,5098,False,14,2
+GP Shared,5099,False,123,6
+GP Shared,5100,False,55,1
+GP Shared,5101,False,42,1
+GP Shared,5102,False,52,1
+GP Shared,5103,False,20,4
+GP Shared,5104,False,57,3
+GP Shared,5105,False,30,2
+GP Shared,5106,False,23,1
+GP Shared,5107,False,19,1
+GP Shared,5108,False,51,1
+GP Shared,5109,False,9,3
+GP Shared,5110,False,42,1
+GP Shared,5111,False,133,9
+GP Shared,5112,False,59,1
+GP Shared,5113,False,85,6
+GP Shared,5114,False,95,9
+GP Shared,5115,False,80,10
+GP Shared,5116,False,34,4
+GP Shared,5117,False,35,1
+GP Shared,5118,False,93,9
+GP Shared,5119,False,56,5
+GP Shared,5120,False,26,4
+GP Shared,5121,False,133,2
+GP Shared,5122,False,32,11
+GP Shared,5123,False,105,4
+GP Shared,5124,False,46,2
+GP Shared,5125,False,78,3
+GP Shared,5126,False,36,1
+GP Shared,5127,False,57,1
+GP Shared,5128,False,59,2
+GP Shared,5129,False,68,2
+GP Shared,5130,False,52,3
+GP Shared,5131,False,19,1
+GP Shared,5132,False,47,6
+GP Shared,5133,False,113,9
+GP Shared,5134,False,106,21
+GP Shared,5135,False,11,3
+GP Shared,5136,False,106,2
+GP Shared,5137,False,31,5
+GP Shared,5138,False,67,6
+GP Shared,5139,False,81,4
+GP Shared,5140,False,32,2
+GP Shared,5141,False,124,8
+GP Shared,5142,False,127,8
+GP Shared,5143,False,42,1
+GP Shared,5144,False,52,3
+GP Shared,5145,False,90,3
+GP Shared,5146,False,75,6
+GP Shared,5147,False,41,5
+GP Shared,5148,False,85,1
+GP Shared,5149,False,28,3
+GP Shared,5150,False,39,1
+GP Shared,5151,False,19,1
+GP Shared,5152,False,18,2
+GP Shared,5153,False,29,4
+GP Shared,5154,False,85,3
+GP Shared,5155,False,78,5
+GP Shared,5156,False,64,4
+GP Shared,5157,False,84,4
+GP Shared,5158,False,112,6
+GP Shared,5159,False,88,2
+GP Shared,5160,False,52,2
+GP Shared,5161,False,81,3
+GP Shared,5162,False,51,2
+GP Shared,5163,False,53,5
+GP Shared,5164,False,76,2
+GP Shared,5165,False,49,7
+GP Shared,5166,False,72,1
+GP Shared,5167,False,116,12
+GP Shared,5168,False,98,5
+GP Shared,5169,False,56,2
+GP Shared,5170,False,64,1
+GP Shared,5171,False,58,1
+GP Shared,5172,False,9,1
+GP Shared,5173,False,115,3
+GP Shared,5174,False,51,4
+GP Shared,5175,False,113,6
+GP Shared,5176,False,41,4
+GP Shared,5177,False,63,14
+GP Shared,5178,False,52,11
+GP Shared,5179,False,105,20
+GP Shared,5180,False,90,1
+GP Shared,5181,False,106,2
+GP Shared,5182,False,12,4
+GP Shared,5183,False,40,3
+GP Shared,5184,False,60,1
+GP Shared,5185,False,24,6
+GP Shared,5186,False,7,1
+GP Shared,5187,False,43,2
+GP Shared,5188,False,40,10
+GP Shared,5189,False,36,1
+GP Shared,5190,False,55,3
+GP Shared,5191,False,89,12
+GP Shared,5192,False,109,5
+GP Shared,5193,False,89,15
+GP Shared,5194,False,54,3
+GP Shared,5195,False,52,9
+GP Shared,5196,False,111,9
+GP Shared,5197,False,126,3
+GP Shared,5198,False,34,4
+GP Shared,5199,False,63,3
+GP Shared,5200,False,71,3
+GP Shared,5201,False,46,1
+GP Shared,5202,False,29,2
+GP Shared,5203,False,43,14
+GP Shared,5204,False,39,7
+GP Shared,5205,False,10,1
+GP Shared,5206,False,26,1
+GP Shared,5207,False,132,11
+GP Shared,5208,False,58,6
+GP Shared,5209,False,64,4
+GP Shared,5210,False,45,7
+GP Shared,5211,False,69,1
+GP Shared,5212,False,57,2
+GP Shared,5213,False,125,14
+GP Shared,5214,False,24,1
+GP Shared,5215,False,38,2
+GP Shared,5216,False,15,3
+GP Shared,5217,False,113,2
+GP Shared,5218,False,35,8
+GP Shared,5219,False,19,2
+GP Shared,5220,False,48,1
+GP Shared,5221,False,87,2
+GP Shared,5222,False,123,6
+GP Shared,5223,False,56,2
+GP Shared,5224,False,64,2
+GP Shared,5225,False,25,6
+GP Shared,5226,False,42,4
+GP Shared,5227,False,10,1
+GP Shared,5228,False,96,7
+GP Shared,5229,False,33,8
+GP Shared,5230,False,81,3
+GP Shared,5231,False,123,2
+GP Shared,5232,False,54,2
+GP Shared,5233,False,68,1
+GP Shared,5234,False,74,9
+GP Shared,5235,False,79,4
+GP Shared,5236,False,85,4
+GP Shared,5237,False,120,13
+GP Shared,5238,False,57,5
+GP Shared,5239,False,54,9
+GP Shared,5240,False,75,2
+GP Shared,5241,False,68,2
+GP Shared,5242,False,16,5
+GP Shared,5243,False,40,1
+GP Shared,5244,False,27,6
+GP Shared,5245,False,32,5
+GP Shared,5246,False,25,1
+GP Shared,5247,False,52,5
+GP Shared,5248,False,23,2
+GP Shared,5249,False,100,2
+GP Shared,5250,False,81,5
+GP Shared,5251,False,177,27
+GP Shared,5252,False,88,10
+GP Shared,5253,False,37,10
+GP Shared,5254,False,12,1
+GP Shared,5255,False,39,8
+GP Shared,5256,False,47,1
+GP Shared,5257,False,57,1
+GP Shared,5258,False,88,6
+GP Shared,5259,False,51,3
+GP Shared,5260,False,40,1
+GP Shared,5261,False,85,7
+GP Shared,5262,False,92,9
+GP Shared,5263,False,58,4
+GP Shared,5264,False,69,1
+GP Shared,5265,False,38,2
+GP Shared,5266,False,83,11
+GP Shared,5267,False,107,9
+GP Shared,5268,False,71,6
+GP Shared,5269,False,57,7
+GP Shared,5270,False,7,1
+GP Shared,5271,False,55,3
+GP Shared,5272,False,89,12
+GP Shared,5273,False,82,2
+GP Shared,5274,False,76,1
+GP Shared,5275,False,76,5
+GP Shared,5276,False,66,5
+GP Shared,5277,False,101,5
+GP Shared,5278,False,42,12
+GP Shared,5279,False,85,14
+GP Shared,5280,False,51,2
+GP Shared,5281,False,53,1
+GP Shared,5282,False,110,2
+GP Shared,5283,False,130,17
+GP Shared,5284,False,79,8
+GP Shared,5285,False,95,2
+GP Shared,5286,False,91,3
+GP Shared,5287,False,30,2
+GP Shared,5288,False,82,1
+GP Shared,5289,False,9,1
+GP Shared,5290,False,72,3
+GP Shared,5291,False,108,3
+GP Shared,5292,False,36,3
+GP Shared,5293,False,90,6
+GP Shared,5294,False,96,2
+GP Shared,5295,False,104,4
+GP Shared,5296,False,111,9
+GP Shared,5297,False,55,1
+GP Shared,5298,False,68,2
+GP Shared,5299,False,47,3
+GP Shared,5300,False,86,4
+GP Shared,5301,False,123,1
+GP Shared,5302,False,75,1
+GP Shared,5303,False,105,2
+GP Shared,5304,False,103,4
+GP Shared,5305,False,27,1
+GP Shared,5306,False,62,2
+GP Shared,5307,False,11,2
+GP Shared,5308,False,24,1
+GP Shared,5309,False,124,7
+GP Shared,5310,False,18,1
+GP Shared,5311,False,95,3
+GP Shared,5312,False,136,8
+GP Shared,5313,False,44,2
+GP Shared,5314,False,55,1
+GP Shared,5315,False,9,1
+GP Shared,5316,False,26,3
+GP Shared,5317,False,60,5
+GP Shared,5318,False,105,20
+GP Shared,5319,False,9,1
+GP Shared,5320,False,36,2
+GP Shared,5321,False,47,1
+GP Shared,5322,False,86,11
+GP Shared,5323,False,77,7
+GP Shared,5324,False,80,5
+GP Shared,5325,False,139,2
+GP Shared,5326,False,18,7
+GP Shared,5327,False,41,2
+GP Shared,5328,False,51,4
+GP Shared,5329,False,86,9
+GP Shared,5330,False,85,4
+GP Shared,5331,False,36,2
+GP Shared,5332,False,20,2
+GP Shared,5333,False,53,1
+GP Shared,5334,False,53,5
+GP Shared,5335,False,73,6
+GP Shared,5336,False,66,2
+GP Shared,5337,False,27,2
+GP Shared,5338,False,39,1
+GP Shared,5339,False,167,17
+GP Shared,5340,False,19,5
+GP Shared,5341,False,70,4
+GP Shared,5342,False,85,1
+GP Shared,5343,False,112,1
+GP Shared,5344,False,33,3
+GP Shared,5345,False,57,8
+GP Shared,5346,False,75,2
+GP Shared,5347,False,101,5
+GP Shared,5348,False,75,4
+GP Shared,5349,False,90,4
+GP Shared,5350,False,72,9
+GP Shared,5351,False,77,3
+GP Shared,5352,False,36,3
+GP Shared,5353,False,90,4
+GP Shared,5354,False,20,4
+GP Shared,5355,False,96,2
+GP Shared,5356,False,91,17
+GP Shared,5357,False,102,2
+GP Shared,5358,False,87,7
+GP Shared,5359,False,178,12
+GP Shared,5360,False,18,1
+GP Shared,5361,False,84,6
+GP Shared,5362,False,115,17
+GP Shared,5363,False,167,11
+GP Shared,5364,False,147,14
+GP Shared,5365,False,33,4
+GP Shared,5366,False,12,2
+GP Shared,5367,False,34,2
+GP Shared,5368,False,60,10
+GP Shared,5369,False,23,1
+GP Shared,5370,False,24,1
+GP Shared,5371,False,24,1
+GP Shared,5372,False,128,1
+GP Shared,5373,False,45,7
+GP Shared,5374,False,95,7
+GP Shared,5375,False,25,2
+GP Shared,5376,False,111,1
+GP Shared,5377,False,49,1
+GP Shared,5378,False,48,1
+GP Shared,5379,False,82,6
+GP Shared,5380,False,37,10
+GP Shared,5381,False,46,3
+GP Shared,5382,False,113,6
+GP Shared,5383,False,96,4
+GP Shared,5384,False,58,2
+GP Shared,5385,False,28,4
+GP Shared,5386,False,88,2
+GP Shared,5387,False,71,10
+GP Shared,5388,False,81,3
+GP Shared,5389,False,164,9
+GP Shared,5390,False,63,2
+GP Shared,5391,False,90,12
+GP Shared,5392,False,131,1
+GP Shared,5393,False,33,3
+GP Shared,5394,False,138,14
+GP Shared,5395,False,60,6
+GP Shared,5396,False,91,4
+GP Shared,5397,False,126,2
+GP Shared,5398,False,67,3
+GP Shared,5399,False,70,2
+GP Shared,5400,False,11,1
+GP Shared,5401,False,95,6
+GP Shared,5402,False,58,3
+GP Shared,5403,False,22,4
+GP Shared,5404,False,52,2
+GP Shared,5405,False,86,5
+GP Shared,5406,False,29,3
+GP Shared,5407,False,136,12
+GP Shared,5408,False,45,1
+GP Shared,5409,False,98,2
+GP Shared,5410,False,128,2
+GP Shared,5411,False,104,6
+GP Shared,5412,False,89,13
+GP Shared,5413,False,59,4
+GP Shared,5414,False,49,6
+GP Shared,5415,False,67,1
+GP Shared,5416,False,44,2
+GP Shared,5417,False,110,1
+GP Shared,5418,False,127,11
+GP Shared,5419,False,11,1
+GP Shared,5420,False,114,4
+GP Shared,5421,False,94,6
+GP Shared,5422,False,66,7
+GP Shared,5423,False,80,1
+GP Shared,5424,False,97,2
+GP Shared,5425,False,116,14
+GP Shared,5426,False,37,7
+GP Shared,5427,False,12,2
+GP Shared,5428,False,38,3
+GP Shared,5429,False,20,1
+GP Shared,5430,False,42,3
+GP Shared,5431,False,55,2
+GP Shared,5432,False,86,1
+GP Shared,5433,False,122,2
+GP Shared,5434,False,61,4
+GP Shared,5435,False,20,2
+GP Shared,5436,False,11,1
+GP Shared,5437,False,17,3
+GP Shared,5438,False,84,3
+GP Shared,5439,False,11,5
+GP Shared,5440,False,39,3
+GP Shared,5441,False,79,6
+GP Shared,5442,False,73,3
+GP Shared,5443,False,40,3
+GP Shared,5444,False,90,5
+GP Shared,5445,False,43,10
+GP Shared,5446,False,104,5
+GP Shared,5447,False,92,1
+GP Shared,5448,False,81,5
+GP Shared,5449,False,26,2
+GP Shared,5450,False,104,8
+GP Shared,5451,False,10,1
+GP Shared,5452,False,141,7
+GP Shared,5453,False,135,1
+GP Shared,5454,False,66,4
+GP Shared,5455,False,39,4
+GP Shared,5456,False,10,1
+GP Shared,5457,False,92,10
+GP Shared,5458,False,80,2
+GP Shared,5459,False,18,1
+GP Shared,5460,False,143,14
+GP Shared,5461,False,58,7
+GP Shared,5462,False,19,1
+GP Shared,5463,False,82,5
+GP Shared,5464,False,89,9
+GP Shared,5465,False,81,10
+GP Shared,5466,False,59,1
+GP Shared,5467,False,40,1
+GP Shared,5468,False,28,1
+GP Shared,5469,False,48,3
+GP Shared,5470,False,123,11
+GP Shared,5471,False,88,12
+GP Shared,5472,False,173,16
+GP Shared,5473,False,20,5
+GP Shared,5474,False,88,1
+GP Shared,5475,False,77,2
+GP Shared,5476,False,36,7
+GP Shared,5477,False,21,2
+GP Shared,5478,False,115,13
+GP Shared,5479,False,104,2
+GP Shared,5480,False,75,9
+GP Shared,5481,False,138,7
+GP Shared,5482,False,122,7
+GP Shared,5483,False,27,1
+GP Shared,5484,False,28,2
+GP Shared,5485,False,74,3
+GP Shared,5486,False,92,1
+GP Shared,5487,False,117,5
+GP Shared,5488,False,131,5
+GP Shared,5489,False,11,2
+GP Shared,5490,False,82,4
+GP Shared,5491,False,131,8
+GP Shared,5492,False,79,5
+GP Shared,5493,False,41,1
+GP Shared,5494,False,130,4
+GP Shared,5495,False,20,3
+GP Shared,5496,False,54,1
+GP Shared,5497,False,133,12
+GP Shared,5498,False,99,10
+GP Shared,5499,False,75,2
+GP + Derived,5000,False,89,4
+GP + Derived,5001,False,132,14
+GP + Derived,5002,False,84,12
+GP + Derived,5003,False,121,5
+GP + Derived,5004,False,103,7
+GP + Derived,5005,False,68,4
+GP + Derived,5006,False,33,4
+GP + Derived,5007,False,109,12
+GP + Derived,5008,False,51,9
+GP + Derived,5009,False,65,3
+GP + Derived,5010,False,76,1
+GP + Derived,5011,False,75,8
+GP + Derived,5012,False,151,26
+GP + Derived,5013,False,22,5
+GP + Derived,5014,False,135,7
+GP + Derived,5015,False,117,20
+GP + Derived,5016,False,32,4
+GP + Derived,5017,False,164,21
+GP + Derived,5018,False,92,15
+GP + Derived,5019,False,61,11
+GP + Derived,5020,False,146,14
+GP + Derived,5021,False,64,3
+GP + Derived,5022,False,26,5
+GP + Derived,5023,False,27,6
+GP + Derived,5024,False,16,6
+GP + Derived,5025,False,35,8
+GP + Derived,5026,False,171,21
+GP + Derived,5027,False,128,8
+GP + Derived,5028,False,112,18
+GP + Derived,5029,False,136,11
+GP + Derived,5030,False,81,9
+GP + Derived,5031,False,208,57
+GP + Derived,5032,False,17,5
+GP + Derived,5033,False,151,9
+GP + Derived,5034,False,170,38
+GP + Derived,5035,False,104,20
+GP + Derived,5036,False,75,14
+GP + Derived,5037,False,22,5
+GP + Derived,5038,False,68,10
+GP + Derived,5039,False,81,11
+GP + Derived,5040,False,150,12
+GP + Derived,5041,False,139,10
+GP + Derived,5042,False,100,13
+GP + Derived,5043,False,140,6
+GP + Derived,5044,False,49,3
+GP + Derived,5045,False,150,13
+GP + Derived,5046,False,135,27
+GP + Derived,5047,False,38,7
+GP + Derived,5048,False,31,5
+GP + Derived,5049,False,169,17
+GP + Derived,5050,False,100,5
+GP + Derived,5051,False,90,4
+GP + Derived,5052,False,17,2
+GP + Derived,5053,False,27,2
+GP + Derived,5054,False,118,4
+GP + Derived,5055,False,172,19
+GP + Derived,5056,False,98,7
+GP + Derived,5057,False,198,61
+GP + Derived,5058,False,114,3
+GP + Derived,5059,False,96,8
+GP + Derived,5060,False,132,11
+GP + Derived,5061,False,38,10
+GP + Derived,5062,False,118,15
+GP + Derived,5063,False,149,11
+GP + Derived,5064,False,68,12
+GP + Derived,5065,False,130,9
+GP + Derived,5066,False,21,2
+GP + Derived,5067,False,153,12
+GP + Derived,5068,False,103,15
+GP + Derived,5069,False,139,13
+GP + Derived,5070,False,35,8
+GP + Derived,5071,False,84,17
+GP + Derived,5072,False,13,1
+GP + Derived,5073,False,116,1
+GP + Derived,5074,False,158,11
+GP + Derived,5075,False,74,11
+GP + Derived,5076,False,93,5
+GP + Derived,5077,False,133,16
+GP + Derived,5078,False,150,21
+GP + Derived,5079,False,76,7
+GP + Derived,5080,False,66,18
+GP + Derived,5081,False,86,11
+GP + Derived,5082,False,41,2
+GP + Derived,5083,False,114,8
+GP + Derived,5084,False,168,20
+GP + Derived,5085,False,103,4
+GP + Derived,5086,False,41,4
+GP + Derived,5087,False,164,18
+GP + Derived,5088,False,74,9
+GP + Derived,5089,False,68,3
+GP + Derived,5090,False,57,5
+GP + Derived,5091,False,33,3
+GP + Derived,5092,False,156,8
+GP + Derived,5093,False,34,9
+GP + Derived,5094,False,150,17
+GP + Derived,5095,False,30,9
+GP + Derived,5096,False,37,12
+GP + Derived,5097,False,46,2
+GP + Derived,5098,False,14,2
+GP + Derived,5099,False,146,17
+GP + Derived,5100,False,76,6
+GP + Derived,5101,False,96,5
+GP + Derived,5102,False,154,17
+GP + Derived,5103,False,20,4
+GP + Derived,5104,False,112,10
+GP + Derived,5105,False,42,7
+GP + Derived,5106,False,114,6
+GP + Derived,5107,False,93,14
+GP + Derived,5108,False,56,6
+GP + Derived,5109,False,12,6
+GP + Derived,5110,False,90,4
+GP + Derived,5111,False,55,4
+GP + Derived,5112,False,129,26
+GP + Derived,5113,False,96,9
+GP + Derived,5114,False,162,13
+GP + Derived,5115,False,66,3
+GP + Derived,5116,False,32,2
+GP + Derived,5117,False,37,3
+GP + Derived,5118,False,67,6
+GP + Derived,5119,False,148,27
+GP + Derived,5120,False,29,7
+GP + Derived,5121,False,131,6
+GP + Derived,5122,False,27,3
+GP + Derived,5123,False,158,17
+GP + Derived,5124,False,32,2
+GP + Derived,5125,False,61,1
+GP + Derived,5126,False,42,7
+GP + Derived,5127,False,169,21
+GP + Derived,5128,False,60,3
+GP + Derived,5129,False,128,13
+GP + Derived,5130,False,124,18
+GP + Derived,5131,False,147,18
+GP + Derived,5132,False,93,18
+GP + Derived,5133,False,128,9
+GP + Derived,5134,False,77,19
+GP + Derived,5135,False,48,3
+GP + Derived,5136,False,108,4
+GP + Derived,5137,False,27,1
+GP + Derived,5138,False,63,2
+GP + Derived,5139,False,172,24
+GP + Derived,5140,False,32,2
+GP + Derived,5141,False,46,2
+GP + Derived,5142,False,138,9
+GP + Derived,5143,False,51,10
+GP + Derived,5144,False,51,2
+GP + Derived,5145,False,88,1
+GP + Derived,5146,False,99,8
+GP + Derived,5147,False,42,6
+GP + Derived,5148,False,107,4
+GP + Derived,5149,False,194,31
+GP + Derived,5150,False,131,13
+GP + Derived,5151,False,154,14
+GP + Derived,5152,False,42,13
+GP + Derived,5153,False,61,11
+GP + Derived,5154,False,93,6
+GP + Derived,5155,False,73,4
+GP + Derived,5156,False,129,13
+GP + Derived,5157,False,86,6
+GP + Derived,5158,False,110,3
+GP + Derived,5159,False,178,12
+GP + Derived,5160,False,162,31
+GP + Derived,5161,False,19,7
+GP + Derived,5162,False,175,32
+GP + Derived,5163,False,51,3
+GP + Derived,5164,False,123,17
+GP + Derived,5165,False,48,6
+GP + Derived,5166,False,73,2
+GP + Derived,5167,False,111,7
+GP + Derived,5168,False,155,20
+GP + Derived,5169,False,60,6
+GP + Derived,5170,False,73,10
+GP + Derived,5171,False,97,13
+GP + Derived,5172,False,104,7
+GP + Derived,5173,False,149,13
+GP + Derived,5174,False,96,11
+GP + Derived,5175,False,182,34
+GP + Derived,5176,False,75,13
+GP + Derived,5177,False,17,2
+GP + Derived,5178,False,118,25
+GP + Derived,5179,False,50,5
+GP + Derived,5180,False,133,15
+GP + Derived,5181,False,163,17
+GP + Derived,5182,False,12,4
+GP + Derived,5183,False,41,4
+GP + Derived,5184,False,176,37
+GP + Derived,5185,False,19,1
+GP + Derived,5186,False,9,3
+GP + Derived,5187,False,132,14
+GP + Derived,5188,False,134,9
+GP + Derived,5189,False,100,6
+GP + Derived,5190,False,97,11
+GP + Derived,5191,False,170,31
+GP + Derived,5192,False,69,4
+GP + Derived,5193,False,70,3
+GP + Derived,5194,False,108,15
+GP + Derived,5195,False,133,19
+GP + Derived,5196,False,74,6
+GP + Derived,5197,False,126,3
+GP + Derived,5198,False,34,4
+GP + Derived,5199,False,51,5
+GP + Derived,5200,False,85,11
+GP + Derived,5201,False,58,13
+GP + Derived,5202,False,98,14
+GP + Derived,5203,False,8,2
+GP + Derived,5204,False,35,3
+GP + Derived,5205,False,11,2
+GP + Derived,5206,False,30,5
+GP + Derived,5207,False,68,1
+GP + Derived,5208,False,66,15
+GP + Derived,5209,False,63,3
+GP + Derived,5210,False,46,8
+GP + Derived,5211,False,130,8
+GP + Derived,5212,False,135,16
+GP + Derived,5213,False,147,20
+GP + Derived,5214,False,24,1
+GP + Derived,5215,False,49,3
+GP + Derived,5216,False,47,8
+GP + Derived,5217,False,106,2
+GP + Derived,5218,False,44,17
+GP + Derived,5219,False,30,13
+GP + Derived,5220,False,92,4
+GP + Derived,5221,False,94,9
+GP + Derived,5222,False,127,10
+GP + Derived,5223,False,141,11
+GP + Derived,5224,False,94,5
+GP + Derived,5225,False,23,4
+GP + Derived,5226,False,51,4
+GP + Derived,5227,False,29,14
+GP + Derived,5228,False,93,4
+GP + Derived,5229,False,113,19
+GP + Derived,5230,False,108,25
+GP + Derived,5231,False,124,3
+GP + Derived,5232,False,54,2
+GP + Derived,5233,False,118,6
+GP + Derived,5234,False,121,11
+GP + Derived,5235,False,124,9
+GP + Derived,5236,False,104,6
+GP + Derived,5237,False,132,11
+GP + Derived,5238,False,24,1
+GP + Derived,5239,False,35,12
+GP + Derived,5240,False,77,4
+GP + Derived,5241,False,68,2
+GP + Derived,5242,False,141,21
+GP + Derived,5243,False,134,10
+GP + Derived,5244,False,194,47
+GP + Derived,5245,False,133,7
+GP + Derived,5246,False,92,10
+GP + Derived,5247,False,96,13
+GP + Derived,5248,False,92,21
+GP + Derived,5249,False,126,8
+GP + Derived,5250,False,79,3
+GP + Derived,5251,False,65,4
+GP + Derived,5252,False,86,14
+GP + Derived,5253,False,32,5
+GP + Derived,5254,False,12,1
+GP + Derived,5255,False,42,10
+GP + Derived,5256,False,153,16
+GP + Derived,5257,False,58,2
+GP + Derived,5258,False,119,7
+GP + Derived,5259,False,8,2
+GP + Derived,5260,False,41,2
+GP + Derived,5261,False,15,3
+GP + Derived,5262,False,133,13
+GP + Derived,5263,False,57,3
+GP + Derived,5264,False,114,9
+GP + Derived,5265,False,49,9
+GP + Derived,5266,False,65,10
+GP + Derived,5267,False,112,5
+GP + Derived,5268,False,17,2
+GP + Derived,5269,False,111,14
+GP + Derived,5270,False,12,6
+GP + Derived,5271,False,60,8
+GP + Derived,5272,False,64,11
+GP + Derived,5273,False,81,1
+GP + Derived,5274,False,83,3
+GP + Derived,5275,False,91,8
+GP + Derived,5276,False,79,6
+GP + Derived,5277,False,103,8
+GP + Derived,5278,False,53,14
+GP + Derived,5279,False,76,4
+GP + Derived,5280,False,64,5
+GP + Derived,5281,False,85,5
+GP + Derived,5282,False,123,13
+GP + Derived,5283,False,132,23
+GP + Derived,5284,False,64,6
+GP + Derived,5285,False,170,15
+GP + Derived,5286,False,103,13
+GP + Derived,5287,False,31,3
+GP + Derived,5288,False,117,7
+GP + Derived,5289,False,9,1
+GP + Derived,5290,False,71,2
+GP + Derived,5291,False,120,7
+GP + Derived,5292,False,66,6
+GP + Derived,5293,False,160,21
+GP + Derived,5294,False,114,2
+GP + Derived,5295,False,105,5
+GP + Derived,5296,False,148,17
+GP + Derived,5297,False,57,3
+GP + Derived,5298,False,179,29
+GP + Derived,5299,False,84,6
+GP + Derived,5300,False,128,31
+GP + Derived,5301,False,125,3
+GP + Derived,5302,False,76,2
+GP + Derived,5303,False,157,38
+GP + Derived,5304,False,16,4
+GP + Derived,5305,False,83,3
+GP + Derived,5306,False,167,15
+GP + Derived,5307,False,37,3
+GP + Derived,5308,False,116,20
+GP + Derived,5309,False,155,8
+GP + Derived,5310,False,23,6
+GP + Derived,5311,False,98,6
+GP + Derived,5312,False,121,4
+GP + Derived,5313,False,26,2
+GP + Derived,5314,False,68,7
+GP + Derived,5315,False,61,5
+GP + Derived,5316,False,28,5
+GP + Derived,5317,False,110,13
+GP + Derived,5318,False,32,4
+GP + Derived,5319,False,9,1
+GP + Derived,5320,False,154,9
+GP + Derived,5321,False,49,3
+GP + Derived,5322,False,93,8
+GP + Derived,5323,False,102,18
+GP + Derived,5324,False,81,6
+GP + Derived,5325,False,170,14
+GP + Derived,5326,False,149,16
+GP + Derived,5327,False,41,2
+GP + Derived,5328,False,76,14
+GP + Derived,5329,False,35,13
+GP + Derived,5330,False,143,8
+GP + Derived,5331,False,130,16
+GP + Derived,5332,False,182,27
+GP + Derived,5333,False,53,1
+GP + Derived,5334,False,124,22
+GP + Derived,5335,False,83,3
+GP + Derived,5336,False,105,12
+GP + Derived,5337,False,44,11
+GP + Derived,5338,False,44,6
+GP + Derived,5339,False,31,2
+GP + Derived,5340,False,93,5
+GP + Derived,5341,False,150,13
+GP + Derived,5342,False,100,7
+GP + Derived,5343,False,135,6
+GP + Derived,5344,False,33,3
+GP + Derived,5345,False,97,13
+GP + Derived,5346,False,77,4
+GP + Derived,5347,False,45,3
+GP + Derived,5348,False,130,15
+GP + Derived,5349,False,160,29
+GP + Derived,5350,False,45,9
+GP + Derived,5351,False,77,3
+GP + Derived,5352,False,36,3
+GP + Derived,5353,False,103,18
+GP + Derived,5354,False,36,5
+GP + Derived,5355,False,96,2
+GP + Derived,5356,False,73,7
+GP + Derived,5357,False,102,4
+GP + Derived,5358,False,111,13
+GP + Derived,5359,False,173,7
+GP + Derived,5360,False,157,17
+GP + Derived,5361,False,82,4
+GP + Derived,5362,False,132,9
+GP + Derived,5363,False,124,4
+GP + Derived,5364,False,49,5
+GP + Derived,5365,False,71,6
+GP + Derived,5366,False,98,11
+GP + Derived,5367,False,188,44
+GP + Derived,5368,False,43,5
+GP + Derived,5369,False,45,8
+GP + Derived,5370,False,24,1
+GP + Derived,5371,False,125,19
+GP + Derived,5372,False,149,5
+GP + Derived,5373,False,44,6
+GP + Derived,5374,False,38,2
+GP + Derived,5375,False,118,17
+GP + Derived,5376,False,124,2
+GP + Derived,5377,False,154,18
+GP + Derived,5378,False,166,30
+GP + Derived,5379,False,69,3
+GP + Derived,5380,False,28,1
+GP + Derived,5381,False,61,11
+GP + Derived,5382,False,120,5
+GP + Derived,5383,False,115,7
+GP + Derived,5384,False,135,18
+GP + Derived,5385,False,129,30
+GP + Derived,5386,False,117,5
+GP + Derived,5387,False,89,13
+GP + Derived,5388,False,79,1
+GP + Derived,5389,False,181,24
+GP + Derived,5390,False,97,5
+GP + Derived,5391,False,80,2
+GP + Derived,5392,False,148,13
+GP + Derived,5393,False,41,11
+GP + Derived,5394,False,139,15
+GP + Derived,5395,False,54,9
+GP + Derived,5396,False,175,24
+GP + Derived,5397,False,161,17
+GP + Derived,5398,False,68,4
+GP + Derived,5399,False,71,3
+GP + Derived,5400,False,11,1
+GP + Derived,5401,False,112,10
+GP + Derived,5402,False,67,6
+GP + Derived,5403,False,81,25
+GP + Derived,5404,False,45,4
+GP + Derived,5405,False,128,11
+GP + Derived,5406,False,42,4
+GP + Derived,5407,False,122,11
+GP + Derived,5408,False,46,2
+GP + Derived,5409,False,100,4
+GP + Derived,5410,False,154,18
+GP + Derived,5411,False,68,2
+GP + Derived,5412,False,143,14
+GP + Derived,5413,False,171,34
+GP + Derived,5414,False,53,10
+GP + Derived,5415,False,112,7
+GP + Derived,5416,False,123,12
+GP + Derived,5417,False,123,7
+GP + Derived,5418,False,146,23
+GP + Derived,5419,False,11,1
+GP + Derived,5420,False,167,25
+GP + Derived,5421,False,54,3
+GP + Derived,5422,False,86,6
+GP + Derived,5423,False,84,5
+GP + Derived,5424,False,110,2
+GP + Derived,5425,False,135,17
+GP + Derived,5426,False,130,3
+GP + Derived,5427,False,94,9
+GP + Derived,5428,False,87,18
+GP + Derived,5429,False,157,29
+GP + Derived,5430,False,43,4
+GP + Derived,5431,False,57,4
+GP + Derived,5432,False,86,1
+GP + Derived,5433,False,138,9
+GP + Derived,5434,False,68,11
+GP + Derived,5435,False,20,2
+GP + Derived,5436,False,14,4
+GP + Derived,5437,False,15,1
+GP + Derived,5438,False,82,1
+GP + Derived,5439,False,179,25
+GP + Derived,5440,False,43,7
+GP + Derived,5441,False,166,25
+GP + Derived,5442,False,87,7
+GP + Derived,5443,False,130,20
+GP + Derived,5444,False,190,24
+GP + Derived,5445,False,24,4
+GP + Derived,5446,False,102,3
+GP + Derived,5447,False,101,6
+GP + Derived,5448,False,103,6
+GP + Derived,5449,False,28,4
+GP + Derived,5450,False,58,11
+GP + Derived,5451,False,49,18
+GP + Derived,5452,False,145,11
+GP + Derived,5453,False,143,9
+GP + Derived,5454,False,36,2
+GP + Derived,5455,False,87,11
+GP + Derived,5456,False,56,10
+GP + Derived,5457,False,111,13
+GP + Derived,5458,False,140,5
+GP + Derived,5459,False,55,9
+GP + Derived,5460,False,93,1
+GP + Derived,5461,False,114,7
+GP + Derived,5462,False,28,10
+GP + Derived,5463,False,85,8
+GP + Derived,5464,False,86,6
+GP + Derived,5465,False,99,19
+GP + Derived,5466,False,67,9
+GP + Derived,5467,False,43,4
+GP + Derived,5468,False,29,2
+GP + Derived,5469,False,121,12
+GP + Derived,5470,False,155,26
+GP + Derived,5471,False,70,9
+GP + Derived,5472,False,34,4
+GP + Derived,5473,False,19,4
+GP + Derived,5474,False,93,6
+GP + Derived,5475,False,93,6
+GP + Derived,5476,False,33,4
+GP + Derived,5477,False,61,3
+GP + Derived,5478,False,116,8
+GP + Derived,5479,False,132,9
+GP + Derived,5480,False,19,5
+GP + Derived,5481,False,119,6
+GP + Derived,5482,False,113,5
+GP + Derived,5483,False,152,5
+GP + Derived,5484,False,28,2
+GP + Derived,5485,False,115,11
+GP + Derived,5486,False,93,2
+GP + Derived,5487,False,131,10
+GP + Derived,5488,False,173,9
+GP + Derived,5489,False,27,5
+GP + Derived,5490,False,179,17
+GP + Derived,5491,False,111,6
+GP + Derived,5492,False,96,12
+GP + Derived,5493,False,46,6
+GP + Derived,5494,False,121,2
+GP + Derived,5495,False,20,3
+GP + Derived,5496,False,158,19
+GP + Derived,5497,False,50,2
+GP + Derived,5498,False,105,10
+GP + Derived,5499,False,187,23

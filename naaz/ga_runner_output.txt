@@ -1,0 +1,66 @@
+Loading dataset splits...
+One-hot encoding 50,000 samples (264 binary features each, excluding center cell)...
+Initializing GA population (pop_size=50, parameters=265)...
+Gen 0000 | Train Brier: 0.17759 | Val Brier: 0.17857
+
+Starting Evolution (Max 10,000 Gens | Early Stopping Patience = 100)...
+
+Generation    1 | Current Train: 0.16942 | Current Val: 0.16952 | Best Score: 0.16952 (discovered at Gen    1)
+Generation    2 | Current Train: 0.15361 | Current Val: 0.15400 | Best Score: 0.15400 (discovered at Gen    2)
+Generation    3 | Current Train: 0.13890 | Current Val: 0.13763 | Best Score: 0.13763 (discovered at Gen    3)
+Generation    4 | Current Train: 0.13366 | Current Val: 0.13305 | Best Score: 0.13305 (discovered at Gen    4)
+Generation    5 | Current Train: 0.13137 | Current Val: 0.13007 | Best Score: 0.13007 (discovered at Gen    5)
+Generation   50 | Current Train: 0.10190 | Current Val: 0.10106 | Best Score: 0.10106 (discovered at Gen   50)
+Generation  100 | Current Train: 0.09116 | Current Val: 0.09074 | Best Score: 0.09074 (discovered at Gen  100)
+Generation  150 | Current Train: 0.08395 | Current Val: 0.08392 | Best Score: 0.08392 (discovered at Gen  150)
+Generation  200 | Current Train: 0.07900 | Current Val: 0.07888 | Best Score: 0.07888 (discovered at Gen  200)
+Generation  250 | Current Train: 0.07565 | Current Val: 0.07537 | Best Score: 0.07537 (discovered at Gen  250)
+Generation  300 | Current Train: 0.07342 | Current Val: 0.07329 | Best Score: 0.07325 (discovered at Gen  298)
+Generation  350 | Current Train: 0.07158 | Current Val: 0.07145 | Best Score: 0.07146 (discovered at Gen  348)
+Generation  400 | Current Train: 0.07019 | Current Val: 0.07004 | Best Score: 0.07004 (discovered at Gen  400)
+Generation  450 | Current Train: 0.06900 | Current Val: 0.06881 | Best Score: 0.06881 (discovered at Gen  450)
+Generation  500 | Current Train: 0.06818 | Current Val: 0.06801 | Best Score: 0.06801 (discovered at Gen  500)
+Generation  550 | Current Train: 0.06752 | Current Val: 0.06740 | Best Score: 0.06737 (discovered at Gen  548)
+Generation  600 | Current Train: 0.06692 | Current Val: 0.06669 | Best Score: 0.06669 (discovered at Gen  599)
+Generation  650 | Current Train: 0.06650 | Current Val: 0.06624 | Best Score: 0.06622 (discovered at Gen  649)
+Generation  700 | Current Train: 0.06616 | Current Val: 0.06586 | Best Score: 0.06587 (discovered at Gen  692)
+Generation  750 | Current Train: 0.06589 | Current Val: 0.06567 | Best Score: 0.06564 (discovered at Gen  742)
+Generation  800 | Current Train: 0.06560 | Current Val: 0.06534 | Best Score: 0.06534 (discovered at Gen  798)
+Generation  850 | Current Train: 0.06539 | Current Val: 0.06509 | Best Score: 0.06509 (discovered at Gen  850)
+Generation  900 | Current Train: 0.06522 | Current Val: 0.06487 | Best Score: 0.06488 (discovered at Gen  899)
+Generation  950 | Current Train: 0.06507 | Current Val: 0.06475 | Best Score: 0.06475 (discovered at Gen  949)
+Generation 1000 | Current Train: 0.06496 | Current Val: 0.06469 | Best Score: 0.06466 (discovered at Gen  993)
+Generation 1050 | Current Train: 0.06487 | Current Val: 0.06461 | Best Score: 0.06458 (discovered at Gen 1047)
+Generation 1100 | Current Train: 0.06475 | Current Val: 0.06449 | Best Score: 0.06449 (discovered at Gen 1098)
+Generation 1150 | Current Train: 0.06464 | Current Val: 0.06435 | Best Score: 0.06435 (discovered at Gen 1148)
+Generation 1200 | Current Train: 0.06456 | Current Val: 0.06422 | Best Score: 0.06422 (discovered at Gen 1200)
+Generation 1250 | Current Train: 0.06450 | Current Val: 0.06417 | Best Score: 0.06417 (discovered at Gen 1238)
+Generation 1300 | Current Train: 0.06442 | Current Val: 0.06407 | Best Score: 0.06408 (discovered at Gen 1291)
+Generation 1350 | Current Train: 0.06435 | Current Val: 0.06401 | Best Score: 0.06401 (discovered at Gen 1342)
+Generation 1400 | Current Train: 0.06431 | Current Val: 0.06397 | Best Score: 0.06395 (discovered at Gen 1373)
+Generation 1450 | Current Train: 0.06425 | Current Val: 0.06392 | Best Score: 0.06391 (discovered at Gen 1435)
+Generation 1500 | Current Train: 0.06420 | Current Val: 0.06391 | Best Score: 0.06390 (discovered at Gen 1468)
+Generation 1550 | Current Train: 0.06414 | Current Val: 0.06388 | Best Score: 0.06387 (discovered at Gen 1546)
+Generation 1600 | Current Train: 0.06409 | Current Val: 0.06385 | Best Score: 0.06385 (discovered at Gen 1567)
+Generation 1650 | Current Train: 0.06405 | Current Val: 0.06382 | Best Score: 0.06382 (discovered at Gen 1637)
+Generation 1700 | Current Train: 0.06401 | Current Val: 0.06377 | Best Score: 0.06376 (discovered at Gen 1689)
+Generation 1750 | Current Train: 0.06398 | Current Val: 0.06375 | Best Score: 0.06375 (discovered at Gen 1702)
+Generation 1800 | Current Train: 0.06395 | Current Val: 0.06375 | Best Score: 0.06375 (discovered at Gen 1702)
+
+>>> Early Stopping triggered at Generation 1802!
+    Validation score did not improve for 100 consecutive generations.
+    Champion Weights: Selected from Generation 1702 (Best Score = 0.06375).
+
+================================================================================
+ FINAL CHAMPION PERFORMANCE (Weights Selected from Generation 1702)
+================================================================================
+  • Total Generations Executed : 1,802 generations (Stopped by Early Stopping)
+  • Best Score Discovered At   : Generation 1702
+  • Champion Training Brier    : 0.06401
+  • Champion Validation Brier  : 0.06375  <-- Best score discovered at Gen 1702
+  • Champion Test Brier        : 0.06542  <-- Evaluated on unseen test split
+================================================================================
+
+Saved convergence history (best score marked at Gen 1702) to /Users/naaz/Desktop/COS700/naaz/ga_convergence.csv
+Saved final results summary to /Users/naaz/Desktop/COS700/naaz/ga_final_results.csv
+Saved champion scoring function weights to /Users/naaz/Desktop/COS700/naaz/ga_best_weights.npz
